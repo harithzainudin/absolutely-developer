@@ -1,2 +1,2 @@
 # absolutely-developer
-Contain roadmap, resources, and everything that related to become a developer!
+Contain resources and everything that related to become a developer!
