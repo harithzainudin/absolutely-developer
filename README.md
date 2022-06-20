@@ -14,6 +14,7 @@
   - [Web Development](#web-development)
   - [Markdown/Readme](#markdownreadme)
   - [Mix/Various/General](#mixvariousgeneral)
+  - [Miscellaneous](#miscellaneous)
 - [🍰 Contribution Guidelines](#-contribution-guidelines)
 - [💻 Built with](#-built-with)
 - [🛡️ License](#-license)
@@ -66,9 +67,12 @@
 
 #### 🛠 Tools/Development
 
-| Name | Description |
-| ---- | ----------- |
-|      |             |
+| Name                                      | Description                                                                                                                                                                              |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Responsively](https://responsively.app/) | Develop responsive web apps 5x faster! A must-have DevTool for all Front-End developers that will make your job easier. All target screens are displayed side by side in a single window |
+| [Color Hunt](https://colorhunt.co/)       | Website that allows you to select gorgeous colour palettes                                                                                                                               |
+| [Codepen](https://codepen.io/)            | Web-based development platform that allows users to modify front-end languages such as HTML, CSS, and JavaScript without having to install any software.                                 |
+| [Storytale](https://storytale.io/)        | High-class illustrations for web and mobile projects                                                                                                                                     |
 
 #### 📒Resources
 
@@ -92,6 +96,7 @@
 | [Readme-Gen](https://readme-gen.vercel.app/)                                        | Advanced README generator for GitHub projects                                                                            |
 | [Stackedit](https://stackedit.io/)                                                  | In browser Markdown editor                                                                                               |
 | [Online Markdown Table of Contents Generator](https://luciopaiva.com/markdown-toc/) | Generate Table of Contents for your markdown file                                                                        |
+| [readme.so](https://readme.so/)                                                     | Simple editor that allows you to quickly add and customize all the sections you need for your project's readme           |
 
 #### 📒Resources
 
@@ -107,11 +112,13 @@
 
 #### 🛠 Tools/Development
 
-| Name                                                      | Description                                                                        |
-| --------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [Public Apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development             |
-| [App Ideas](https://github.com/florinpop17/app-ideas)     | A Collection of application ideas which can be used to improve your coding skills. |
-| [GitIgnore](https://www.toptal.com/developers/gitignore)  | Create useful .gitignore files for your project                                    |
+| Name                                                      | Description                                                                                                                                                                                 |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Public Apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development                                                                                                                      |
+| [App Ideas](https://github.com/florinpop17/app-ideas)     | A Collection of application ideas which can be used to improve your coding skills.                                                                                                          |
+| [GitIgnore](https://www.toptal.com/developers/gitignore)  | Create useful .gitignore files for your project                                                                                                                                             |
+| [Code Beautify](https://codebeautify.org/)                | Not only beautify the code, they also have different type of converter, sorter, tools, generator.. Everything, you name it!                                                                 |
+| [Small Dev Tools](https://smalldev.tools/)                | Offers a variety of free developer tools, including encoders/decoders, HTML/CSS/Javascript formatters, minifies, fake or test data generators, and more. It also allows you to share codes. |
 
 #### 📒Resources
 
@@ -126,6 +133,36 @@
 | [30 Seconds of Code](https://www.30secondsofcode.org/)                                      | Provides a wide variety of snippet and article collections for all your development needs                                                                                                                                                         |
 | [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)     | Curated list of project-based tutorials                                                                                                                                                                                                           |
 | [Build your own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-game) | Master programming by recreating your favorite technologies from scratch.                                                                                                                                                                         |
+| [DevDocs](https://devdocs.io/)                                                              | Brings together numerous API documentation in a single, searchable interface. You will find docs related to various programming languages, technologies in one place                                                                              |
+| [roadmap.sh](https://roadmap.sh/)                                                           | Community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings                                                                                           |
+| [daily.dev](https://app.daily.dev/)                                                         | Platform where you can find so many good articles to read daily. It shows the best articles from various platforms directly in your feed. They have browser extension also.                                                                       |
+|                                                                                             |                                                                                                                                                                                                                                                   |
+
+[🆙 Go to Table of Contents](#table-of-contents)
+
+---
+
+### Miscellaneous
+
+#### 🛠 Tools/Development
+
+| Name                                       | Description                                                                                 |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| [ray.so](https://ray.so/)                  | Create beautiful images of your code.                                                       |
+| [poest.so](https://poet.so/)               | Create beautiful images of Twitter posts                                                    |
+| [Carbon](https://carbon.now.sh/)           | Create and share beautiful images of your source code                                       |
+| [Profile Pic Maker](https://pfpmaker.com/) | Creates a professional and beautiful profile for each photo in your Web developer portfolio |
+| [resume.io](https://resume.io/)            | Create a professional resume by providing you with well-tested templates                    |
+| [Screely](https://www.screely.com/)        | Instantly turn a screenshot into a browser mockup                                           |
+
+---
+
+#### 📒Resources
+
+| Name                                            | Description                                                              |
+| ----------------------------------------------- | ------------------------------------------------------------------------ |
+| [Programmer Humor](https://programmerhumor.io/) | Various memes and jokes related to programming and developers. Have Fun. |
+|                                                 |                                                                          |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
