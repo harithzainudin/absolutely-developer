@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Absolutely Developer</h1>
 
-<p align="center"><img src="https://socialify.git.ci/harithzainudin/absolutely-developer/image?description=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Light" alt="project-image"></p>
+![absolutely-developer](https://socialify.git.ci/harithzainudin/absolutely-developer/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Light)
 
 <p align="center"><img src="https://img.shields.io/github/stars/harithzainudin/absolutely-developer?style=social" alt="shields"> <img src="https://img.shields.io/github/followers/harithzainudin?style=social" alt="shields"> <img src="https://img.shields.io/github/last-commit/harithzainudin/absolutely-developer?style=social" alt="shields"></p>
 
