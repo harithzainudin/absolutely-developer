@@ -12,6 +12,7 @@
   - [Javascript](#javascript)
   - [Python](#python)
   - [Web Development](#web-development)
+  - [Git](#git)
   - [Markdown/Readme](#markdownreadme)
   - [Mix/Various/General](#mixvariousgeneral)
   - [Miscellaneous](#miscellaneous)
@@ -84,6 +85,24 @@
 [🆙 Go to Table of Contents](#table-of-contents)
 
 ---
+
+### Git
+
+#### 🛠 Tools/Development
+
+| Name | Description |
+| ---- | ----------- |
+|      |             |
+
+---
+
+#### 📒Resources
+
+| Name                                              | Description                                           |
+| ------------------------------------------------- | ----------------------------------------------------- |
+| [Git for Everybody](https://gitforeverybody.com/) | Learn the git flow you'll use everyday as a developer |
+
+[🆙 Go to Table of Contents](#table-of-contents)
 
 ### Markdown/Readme
 
