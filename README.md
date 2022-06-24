@@ -67,19 +67,22 @@
 
 #### 🛠 Tools/Development
 
-| Name                                      | Description                                                                                                                                                                              |
-| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Responsively](https://responsively.app/) | Develop responsive web apps 5x faster! A must-have DevTool for all Front-End developers that will make your job easier. All target screens are displayed side by side in a single window |
-| [Color Hunt](https://colorhunt.co/)       | Website that allows you to select gorgeous colour palettes                                                                                                                               |
-| [Codepen](https://codepen.io/)            | Web-based development platform that allows users to modify front-end languages such as HTML, CSS, and JavaScript without having to install any software.                                 |
-| [Storytale](https://storytale.io/)        | High-class illustrations for web and mobile projects                                                                                                                                     |
+| Name                                                      | Description                                                                                                                                                                              |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Responsively](https://responsively.app/)                 | Develop responsive web apps 5x faster! A must-have DevTool for all Front-End developers that will make your job easier. All target screens are displayed side by side in a single window |
+| [Color Hunt](https://colorhunt.co/)                       | Website that allows you to select gorgeous colour palettes                                                                                                                               |
+| [Codepen](https://codepen.io/)                            | Web-based development platform that allows users to modify front-end languages such as HTML, CSS, and JavaScript without having to install any software.                                 |
+| [Storytale](https://storytale.io/)                        | High-class illustrations for web and mobile projects                                                                                                                                     |
+| [Public Apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development                                                                                                                   |
+| [JSitor](https://jsitor.com/)                             | Online tool for testing and showcasing user-created and collaboration HTML, CSS, JavaScript and NodeJS snippets                                                                          |
+| [CodeSandbox](https://codesandbox.io/)                    | Create, share, and get feedback with collaborative sandboxes for rapid web development.                                                                                                  |
+| [JSFiddle](https://jsfiddle.net/)                         | Test your JavaScript, CSS, HTML or CoffeeScript online                                                                                                                                   |
 
 #### 📒Resources
 
 | Name                                                                                                     | Description                                             |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | [Ultimate Web Development Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) | A collection of Web Developement Resources at one place |
-|                                                                                                          |                                                         |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
@@ -89,9 +92,9 @@
 
 #### 🛠 Tools/Development
 
-| Name | Description |
-| ---- | ----------- |
-|      |             |
+| Name                                                     | Description                                     |
+| -------------------------------------------------------- | ----------------------------------------------- |
+| [GitIgnore](https://www.toptal.com/developers/gitignore) | Create useful .gitignore files for your project |
 
 #### 📒Resources
 
@@ -130,22 +133,20 @@
 
 #### 🛠 Tools/Development
 
-| Name                                                      | Description                                                                                                                                                                                 |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Public Apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development                                                                                                                      |
-| [App Ideas](https://github.com/florinpop17/app-ideas)     | A Collection of application ideas which can be used to improve your coding skills.                                                                                                          |
-| [GitIgnore](https://www.toptal.com/developers/gitignore)  | Create useful .gitignore files for your project                                                                                                                                             |
-| [Code Beautify](https://codebeautify.org/)                | Not only beautify the code, they also have different type of converter, sorter, tools, generator.. Everything, you name it!                                                                 |
-| [Small Dev Tools](https://smalldev.tools/)                | Offers a variety of free developer tools, including encoders/decoders, HTML/CSS/Javascript formatters, minifies, fake or test data generators, and more. It also allows you to share codes. |
-| [ray.so](https://ray.so/)                                 | Create beautiful images of your code.                                                                                                                                                       |
-| [poest.so](https://poet.so/)                              | Create beautiful images of Twitter posts                                                                                                                                                    |
-| [Carbon](https://carbon.now.sh/)                          | Create and share beautiful images of your source code                                                                                                                                       |
-| [Profile Pic Maker](https://pfpmaker.com/)                | Creates a professional and beautiful profile for each photo in your Web developer portfolio                                                                                                 |
-| [resume.io](https://resume.io/)                           | Create a professional resume by providing you with well-tested templates                                                                                                                    |
-| [Screely](https://www.screely.com/)                       | Instantly turn a screenshot into a browser mockup                                                                                                                                           |
-| [Parrot Live](https://github.com/hugomd/parrot.live)      | Using frames from terminal-parrot, to allow any computer with curl to display an animated party parrot                                                                                      |
-| [ASCII Cinema](https://asciinema.org/)                    | Record and share your terminal sessions, the simple way.                                                                                                                                    |
-| [CodeSandbox](https://codesandbox.io/)                    | Create, share, and get feedback with collaborative sandboxes for rapid web development.                                                                                                     |
+| Name                                                  | Description                                                                                                                                                                                 |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [App Ideas](https://github.com/florinpop17/app-ideas) | A Collection of application ideas which can be used to improve your coding skills.                                                                                                          |
+| [Code Beautify](https://codebeautify.org/)            | Not only beautify the code, they also have different type of converter, sorter, tools, generator.. Everything, you name it!                                                                 |
+| [Small Dev Tools](https://smalldev.tools/)            | Offers a variety of free developer tools, including encoders/decoders, HTML/CSS/Javascript formatters, minifies, fake or test data generators, and more. It also allows you to share codes. |
+| [ray.so](https://ray.so/)                             | Create beautiful images of your code.                                                                                                                                                       |
+| [poest.so](https://poet.so/)                          | Create beautiful images of Twitter posts                                                                                                                                                    |
+| [Carbon](https://carbon.now.sh/)                      | Create and share beautiful images of your source code                                                                                                                                       |
+| [Profile Pic Maker](https://pfpmaker.com/)            | Creates a professional and beautiful profile for each photo in your Web developer portfolio                                                                                                 |
+| [resume.io](https://resume.io/)                       | Create a professional resume by providing you with well-tested templates                                                                                                                    |
+| [Screely](https://www.screely.com/)                   | Instantly turn a screenshot into a browser mockup                                                                                                                                           |
+| [Parrot Live](https://github.com/hugomd/parrot.live)  | Using frames from terminal-parrot, to allow any computer with curl to display an animated party parrot                                                                                      |
+| [ASCII Cinema](https://asciinema.org/)                | Record and share your terminal sessions, the simple way.                                                                                                                                    |
+| [Github Gist](https://gist.github.com/)               | Share snippets or excerpts of data/code with others                                                                                                                                         |
 
 #### 📒Resources
 
@@ -163,9 +164,7 @@
 | [DevDocs](https://devdocs.io/)                                                              | Brings together numerous API documentation in a single, searchable interface. You will find docs related to various programming languages, technologies in one place                                                                              |
 | [roadmap.sh](https://roadmap.sh/)                                                           | Community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings                                                                                           |
 | [daily.dev](https://app.daily.dev/)                                                         | Platform where you can find so many good articles to read daily. It shows the best articles from various platforms directly in your feed. They have browser extension also.                                                                       |
-|                                                                                             |                                                                                                                                                                                                                                                   |
 | [Programmer Humor](https://programmerhumor.io/)                                             | Various memes and jokes related to programming and developers. Have Fun.                                                                                                                                                                          |
-|                                                                                             |                                                                                                                                                                                                                                                   |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
