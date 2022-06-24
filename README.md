@@ -93,7 +93,6 @@
 | ---- | ----------- |
 |      |             |
 
-
 #### 📒Resources
 
 | Name                                              | Description                                           |
@@ -146,6 +145,7 @@
 | [Screely](https://www.screely.com/)                       | Instantly turn a screenshot into a browser mockup                                                                                                                                           |
 | [Parrot Live](https://github.com/hugomd/parrot.live)      | Using frames from terminal-parrot, to allow any computer with curl to display an animated party parrot                                                                                      |
 | [ASCII Cinema](https://asciinema.org/)                    | Record and share your terminal sessions, the simple way.                                                                                                                                    |
+| [CodeSandbox](https://codesandbox.io/)                    | Create, share, and get feedback with collaborative sandboxes for rapid web development.                                                                                                     |
 
 #### 📒Resources
 
