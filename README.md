@@ -14,7 +14,6 @@
   - [Web Development](#web-development)
   - [Git](#git)
   - [Markdown/Readme](#markdownreadme)
-  - [Mix/Various/General](#mixvariousgeneral)
   - [Miscellaneous](#miscellaneous)
 - [🍰 Contribution Guidelines](#-contribution-guidelines)
 - [💻 Built with](#-built-with)
@@ -127,7 +126,7 @@
 
 ---
 
-### Mix/Various/General
+### Miscellaneous
 
 #### 🛠 Tools/Development
 
@@ -138,6 +137,16 @@
 | [GitIgnore](https://www.toptal.com/developers/gitignore)  | Create useful .gitignore files for your project                                                                                                                                             |
 | [Code Beautify](https://codebeautify.org/)                | Not only beautify the code, they also have different type of converter, sorter, tools, generator.. Everything, you name it!                                                                 |
 | [Small Dev Tools](https://smalldev.tools/)                | Offers a variety of free developer tools, including encoders/decoders, HTML/CSS/Javascript formatters, minifies, fake or test data generators, and more. It also allows you to share codes. |
+| [ray.so](https://ray.so/)                                 | Create beautiful images of your code.                                                                                                                                                       |
+| [poest.so](https://poet.so/)                              | Create beautiful images of Twitter posts                                                                                                                                                    |
+| [Carbon](https://carbon.now.sh/)                          | Create and share beautiful images of your source code                                                                                                                                       |
+| [Profile Pic Maker](https://pfpmaker.com/)                | Creates a professional and beautiful profile for each photo in your Web developer portfolio                                                                                                 |
+| [resume.io](https://resume.io/)                           | Create a professional resume by providing you with well-tested templates                                                                                                                    |
+| [Screely](https://www.screely.com/)                       | Instantly turn a screenshot into a browser mockup                                                                                                                                           |
+| [Parrot Live](https://github.com/hugomd/parrot.live)      | Using frames from terminal-parrot, to allow any computer with curl to display an animated party parrot                                                                                      |
+| [ASCII Cinema](https://asciinema.org/)                    | Record and share your terminal sessions, the simple way.                                                                                                                                    |
+
+---
 
 #### 📒Resources
 
@@ -156,32 +165,8 @@
 | [roadmap.sh](https://roadmap.sh/)                                                           | Community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings                                                                                           |
 | [daily.dev](https://app.daily.dev/)                                                         | Platform where you can find so many good articles to read daily. It shows the best articles from various platforms directly in your feed. They have browser extension also.                                                                       |
 |                                                                                             |                                                                                                                                                                                                                                                   |
-
-[🆙 Go to Table of Contents](#table-of-contents)
-
----
-
-### Miscellaneous
-
-#### 🛠 Tools/Development
-
-| Name                                       | Description                                                                                 |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| [ray.so](https://ray.so/)                  | Create beautiful images of your code.                                                       |
-| [poest.so](https://poet.so/)               | Create beautiful images of Twitter posts                                                    |
-| [Carbon](https://carbon.now.sh/)           | Create and share beautiful images of your source code                                       |
-| [Profile Pic Maker](https://pfpmaker.com/) | Creates a professional and beautiful profile for each photo in your Web developer portfolio |
-| [resume.io](https://resume.io/)            | Create a professional resume by providing you with well-tested templates                    |
-| [Screely](https://www.screely.com/)        | Instantly turn a screenshot into a browser mockup                                           |
-
----
-
-#### 📒Resources
-
-| Name                                            | Description                                                              |
-| ----------------------------------------------- | ------------------------------------------------------------------------ |
-| [Programmer Humor](https://programmerhumor.io/) | Various memes and jokes related to programming and developers. Have Fun. |
-|                                                 |                                                                          |
+| [Programmer Humor](https://programmerhumor.io/)                                             | Various memes and jokes related to programming and developers. Have Fun.                                                                                                                                                                          |
+|                                                                                             |                                                                                                                                                                                                                                                   |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
