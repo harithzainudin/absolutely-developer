@@ -93,7 +93,6 @@
 | ---- | ----------- |
 |      |             |
 
----
 
 #### 📒Resources
 
@@ -102,6 +101,8 @@
 | [Git for Everybody](https://gitforeverybody.com/) | Learn the git flow you'll use everyday as a developer |
 
 [🆙 Go to Table of Contents](#table-of-contents)
+
+---
 
 ### Markdown/Readme
 
@@ -145,8 +146,6 @@
 | [Screely](https://www.screely.com/)                       | Instantly turn a screenshot into a browser mockup                                                                                                                                           |
 | [Parrot Live](https://github.com/hugomd/parrot.live)      | Using frames from terminal-parrot, to allow any computer with curl to display an animated party parrot                                                                                      |
 | [ASCII Cinema](https://asciinema.org/)                    | Record and share your terminal sessions, the simple way.                                                                                                                                    |
-
----
 
 #### 📒Resources
 
