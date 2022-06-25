@@ -147,6 +147,7 @@
 | [Parrot Live](https://github.com/hugomd/parrot.live)  | Using frames from terminal-parrot, to allow any computer with curl to display an animated party parrot                                                                                      |
 | [ASCII Cinema](https://asciinema.org/)                | Record and share your terminal sessions, the simple way.                                                                                                                                    |
 | [Github Gist](https://gist.github.com/)               | Share snippets or excerpts of data/code with others                                                                                                                                         |
+| [Regex 101](https://regex101.com/)                    | Build, test, and debug Regex. They have regex cheatsheet in here also                                                                                                                       |
 
 #### 📒Resources
 
