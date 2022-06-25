@@ -165,6 +165,7 @@
 | [roadmap.sh](https://roadmap.sh/)                                                           | Community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings                                                                                           |
 | [daily.dev](https://app.daily.dev/)                                                         | Platform where you can find so many good articles to read daily. It shows the best articles from various platforms directly in your feed. They have browser extension also.                                                                       |
 | [Programmer Humor](https://programmerhumor.io/)                                             | Various memes and jokes related to programming and developers. Have Fun.                                                                                                                                                                          |
+| [Dev.to](https://dev.to/)                                                                   | Community of amazing Developers. Place where coders share, stay up-to-date and grow their careers                                                                                                                                                 |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
