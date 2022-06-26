@@ -32,7 +32,7 @@
 | ---- | ----------- |
 |      |             |
 
-#### 📒Resources
+#### 📒 Resources
 
 | Name                                                                          | Description                                                                      |
 | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
@@ -53,7 +53,7 @@
 | ---- | ----------- |
 |      |             |
 
-#### 📒Resources
+#### 📒 Resources
 
 | Name                                          | Description                                                                    |
 | --------------------------------------------- | ------------------------------------------------------------------------------ |
@@ -79,7 +79,7 @@
 | [JSFiddle](https://jsfiddle.net/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Test your JavaScript, CSS, HTML or CoffeeScript online                                                                                                                                                                   |
 | [Github Pages](https://pages.github.com/), [Glitch](https://glitch.com/), [Fleek](https://fleek.co/), [Netlify](https://www.netlify.com/), [Render](https://render.com/), [Surge](https://surge.sh/), [Vercel](https://vercel.com/), [Hostman](https://hostman.com/), [Cloudfare Pages](https://pages.cloudflare.com/), [W3Schools Spaces](https://www.w3schools.com/spaces/), [Heroku](https://www.heroku.com/home), [Firebase Google](https://firebase.google.com/), [DigitalOcean](https://www.digitalocean.com/), [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/), [Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html) | List of Free Hosting Providers (Some are not totally free, but they got free/limited plan. To check the differences, read [this article](https://blog.bitsrc.io/15-free-hosting-for-front-end-developers-9224bc34e14a) ) |
 
-#### 📒Resources
+#### 📒 Resources
 
 | Name                                                                                                     | Description                                             |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
@@ -98,7 +98,7 @@
 | [GitIgnore](https://www.toptal.com/developers/gitignore) | Create useful .gitignore files for your project |
 | [What the commit](http://whatthecommit.com/)             | Generate random funny and useless commit        |
 
-#### 📒Resources
+#### 📒 Resources
 
 | Name                                              | Description                                           |
 | ------------------------------------------------- | ----------------------------------------------------- |
@@ -121,7 +121,7 @@
 | [Online Markdown Table of Contents Generator](https://luciopaiva.com/markdown-toc/) | Generate Table of Contents for your markdown file                                                                        |
 | [readme.so](https://readme.so/)                                                     | Simple editor that allows you to quickly add and customize all the sections you need for your project's readme           |
 
-#### 📒Resources
+#### 📒 Resources
 
 | Name                                                                                           | Description                                       |
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------- |
@@ -151,7 +151,7 @@
 | [Github Gist](https://gist.github.com/)               | Share snippets or excerpts of data/code with others                                                                                                                                         |
 | [Regex 101](https://regex101.com/)                    | Build, test, and debug Regex. They have regex cheatsheet in here also                                                                                                                       |
 
-#### 📒Resources
+#### 📒 Resources
 
 | Name                                                                                        | Description                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
