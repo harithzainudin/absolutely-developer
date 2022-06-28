@@ -12,6 +12,7 @@
   - [Javascript](#javascript)
   - [Python](#python)
   - [Web Development](#web-development)
+    - [Tailwind CSS](#tailwind-css)
   - [DevOps](#devops)
   - [Git](#git)
   - [Markdown/Readme](#markdownreadme)
@@ -85,6 +86,18 @@
 | Name                                                                                                     | Description                                             |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | [Ultimate Web Development Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) | A collection of Web Developement Resources at one place |
+
+[🆙 Go to Table of Contents](#table-of-contents)
+
+---
+
+### Tailwind CSS
+
+#### 📒 Resources
+
+| Name                                   | Description                                                                                               |
+| -------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [Headless UI](https://headlessui.com/) | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
