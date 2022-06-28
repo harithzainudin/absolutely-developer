@@ -12,6 +12,7 @@
   - [Javascript](#javascript)
   - [Python](#python)
   - [Web Development](#web-development)
+  - [DevOps](#devops)
   - [Git](#git)
   - [Markdown/Readme](#markdownreadme)
   - [Miscellaneous](#miscellaneous)
@@ -84,6 +85,24 @@
 | Name                                                                                                     | Description                                             |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | [Ultimate Web Development Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) | A collection of Web Developement Resources at one place |
+
+[🆙 Go to Table of Contents](#table-of-contents)
+
+---
+
+### DevOps
+
+#### 🛠 Tools/Development
+
+| Name | Description |
+| ---- | ----------- |
+|      |             |
+
+#### 📒 Resources
+
+| Name                                                               | Description                                             |
+| ------------------------------------------------------------------ | ------------------------------------------------------- |
+| [90 Days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps) | Documenting repository for learning the world of DevOps |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
