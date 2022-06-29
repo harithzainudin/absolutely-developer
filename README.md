@@ -111,9 +111,8 @@
 This is the only website that you need to know, it contains everything!
 
 [Awesome Vue](https://github.com/vuejs/awesome-vue)
-🎉 A curated list of awesome things related to Vue.js
 
----
+🎉 A curated list of awesome things related to Vue.js
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
