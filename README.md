@@ -98,7 +98,7 @@
 
 #### 📒 Resources
 
-This is the only website that you need to know, it contains everything!
+This is the only repository that you need to know, it contains everything!
 
 [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
 
@@ -110,7 +110,7 @@ This is the only website that you need to know, it contains everything!
 
 ### Vue.js
 
-This is the only website that you need to know, it contains everything!
+This is the only repository that you need to know, it contains everything!
 
 [Awesome Vue](https://github.com/vuejs/awesome-vue)
 
