@@ -98,9 +98,11 @@
 
 #### 📒 Resources
 
-| Name                                   | Description                                                                                               |
-| -------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| [Headless UI](https://headlessui.com/) | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
+This is the only website that you need to know, it contains everything!
+
+[Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
+
+😎 Awesome things related to Tailwind CSS
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
