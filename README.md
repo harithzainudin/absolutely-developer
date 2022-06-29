@@ -13,7 +13,7 @@
   - [Python](#python)
   - [Web Development](#web-development)
     - [Tailwind CSS](#tailwind-css)
-    - [Vue.js](#vue-js)
+    - [Vue.js](#vuejs)
   - [DevOps](#devops)
   - [Git](#git)
   - [Markdown/Readme](#markdownreadme)
