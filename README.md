@@ -13,6 +13,7 @@
   - [Python](#python)
   - [Web Development](#web-development)
     - [Tailwind CSS](#tailwind-css)
+    - [Vue.js](#vue-js)
   - [DevOps](#devops)
   - [Git](#git)
   - [Markdown/Readme](#markdownreadme)
@@ -81,6 +82,7 @@
 | [JSFiddle](https://jsfiddle.net/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Test your JavaScript, CSS, HTML or CoffeeScript online                                                                                                                                                                   |
 | [Github Pages](https://pages.github.com/), [Glitch](https://glitch.com/), [Fleek](https://fleek.co/), [Netlify](https://www.netlify.com/), [Render](https://render.com/), [Surge](https://surge.sh/), [Vercel](https://vercel.com/), [Hostman](https://hostman.com/), [Cloudfare Pages](https://pages.cloudflare.com/), [W3Schools Spaces](https://www.w3schools.com/spaces/), [Heroku](https://www.heroku.com/home), [Firebase Google](https://firebase.google.com/), [DigitalOcean](https://www.digitalocean.com/), [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/), [Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html) | List of Free Hosting Providers (Some are not totally free, but they got free/limited plan. To check the differences, read [this article](https://blog.bitsrc.io/15-free-hosting-for-front-end-developers-9224bc34e14a) ) |
 | [Animate CSS](https://animate.style/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.                                                   |
+| [Popmotion](https://popmotion.io/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | The animator’s JavaScript toolbox.                                                                                                                                                                                       |
 
 #### 📒 Resources
 
@@ -99,6 +101,19 @@
 | Name                                   | Description                                                                                               |
 | -------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | [Headless UI](https://headlessui.com/) | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
+
+[🆙 Go to Table of Contents](#table-of-contents)
+
+---
+
+### Vue.js
+
+This is the only website that you need to know, it contains everything!
+
+[Awesome Vue](https://github.com/vuejs/awesome-vue)
+🎉 A curated list of awesome things related to Vue.js
+
+---
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
