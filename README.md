@@ -14,6 +14,7 @@
   - [Web Development](#web-development)
     - [Tailwind CSS](#tailwind-css)
     - [Vue.js](#vuejs)
+    - [Vuetify](#vuetify)
   - [DevOps](#devops)
   - [Git](#git)
   - [Markdown/Readme](#markdownreadme)
@@ -85,7 +86,8 @@
 | [Popmotion](https://popmotion.io/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | The animator’s JavaScript toolbox.                                                                                                                                                                                       |
 | [Lorem Space](https://lorem.space/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | API for placeholder images but useful!                                                                                                                                                                                   |
 | [Animista](https://animista.net/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | CSS Animations on demand                                                                                                                                                                                                 |
-| [Openbase](https://openbase.com/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Choose the right package every time. Compare open-source packages with powerful metrics and user reviews. Package for JavaScript, Go, Python, Swift, Java and Rust                                                        |
+| [Openbase](https://openbase.com/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Choose the right package every time. Compare open-source packages with powerful metrics and user reviews. Package for JavaScript, Go, Python, Swift, Java and Rust                                                       |
+| [oAuth Debugger](https://oauthdebugger.com/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Test OAuth 2.0 requests and debug responses.                                                                                                                                                                             |
 
 #### 📒 Resources
 
@@ -118,6 +120,18 @@ This is the only repository that you need to know, it contains everything!
 [Awesome Vue](https://github.com/vuejs/awesome-vue)
 
 🎉 A curated list of awesome things related to Vue.js
+
+[🆙 Go to Table of Contents](#table-of-contents)
+
+---
+
+### Vuetify
+
+This is the only repository that you need to know, it contains everything!
+
+[Awesome Vuetify](https://github.com/vuetifyjs/awesome-vuetify)
+
+🎉 The best resources related to Vuetify
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
