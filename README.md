@@ -91,9 +91,10 @@
 
 #### 📒 Resources
 
-| Name                                                                                                     | Description                                             |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| [Ultimate Web Development Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) | A collection of Web Developement Resources at one place |
+| Name                                                                                                     | Description                                                                        |
+| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [Ultimate Web Development Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) | A collection of Web Developement Resources at one place                            |
+| [App Ideas](https://github.com/florinpop17/app-ideas)                                                    | A Collection of application ideas which can be used to improve your coding skills. |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
@@ -201,23 +202,22 @@ This is the only repository that you need to know, it contains everything!
 
 #### 🛠 Tools/Development
 
-| Name                                                  | Description                                                                                                                                                                                 |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [App Ideas](https://github.com/florinpop17/app-ideas) | A Collection of application ideas which can be used to improve your coding skills.                                                                                                          |
-| [Code Beautify](https://codebeautify.org/)            | Not only beautify the code, they also have different type of converter, sorter, tools, generator.. Everything, you name it!                                                                 |
-| [Small Dev Tools](https://smalldev.tools/)            | Offers a variety of free developer tools, including encoders/decoders, HTML/CSS/Javascript formatters, minifies, fake or test data generators, and more. It also allows you to share codes. |
-| [ray.so](https://ray.so/)                             | Create beautiful images of your code.                                                                                                                                                       |
-| [poest.so](https://poet.so/)                          | Create beautiful images of Twitter posts                                                                                                                                                    |
-| [Carbon](https://carbon.now.sh/)                      | Create and share beautiful images of your source code                                                                                                                                       |
-| [Profile Pic Maker](https://pfpmaker.com/)            | Creates a professional and beautiful profile for each photo in your Web developer portfolio                                                                                                 |
-| [resume.io](https://resume.io/)                       | Create a professional resume by providing you with well-tested templates                                                                                                                    |
-| [Screely](https://www.screely.com/)                   | Instantly turn a screenshot into a browser mockup                                                                                                                                           |
-| [Parrot Live](https://github.com/hugomd/parrot.live)  | Using frames from terminal-parrot, to allow any computer with curl to display an animated party parrot                                                                                      |
-| [ASCII Cinema](https://asciinema.org/)                | Record and share your terminal sessions, the simple way.                                                                                                                                    |
-| [Github Gist](https://gist.github.com/)               | Share snippets or excerpts of data/code with others                                                                                                                                         |
-| [Regex 101](https://regex101.com/)                    | Build, test, and debug Regex. They have regex cheatsheet in here also                                                                                                                       |
-| [Snyk](https://snyk.io/test/)                         | Check for known vulnerabilities in public GitHub repos, npm packages and Docker images                                                                                                      |
-| [FauxID](https://fauxid.com/)                         | Fake name & ID generator. Including bank address, phone number, DOB, banking number, companies and others! To make dummy data without you need to think                                     |
+| Name                                                 | Description                                                                                                                                                                                 |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Code Beautify](https://codebeautify.org/)           | Not only beautify the code, they also have different type of converter, sorter, tools, generator.. Everything, you name it!                                                                 |
+| [Small Dev Tools](https://smalldev.tools/)           | Offers a variety of free developer tools, including encoders/decoders, HTML/CSS/Javascript formatters, minifies, fake or test data generators, and more. It also allows you to share codes. |
+| [ray.so](https://ray.so/)                            | Create beautiful images of your code.                                                                                                                                                       |
+| [poest.so](https://poet.so/)                         | Create beautiful images of Twitter posts                                                                                                                                                    |
+| [Carbon](https://carbon.now.sh/)                     | Create and share beautiful images of your source code                                                                                                                                       |
+| [Profile Pic Maker](https://pfpmaker.com/)           | Creates a professional and beautiful profile for each photo in your Web developer portfolio                                                                                                 |
+| [resume.io](https://resume.io/)                      | Create a professional resume by providing you with well-tested templates                                                                                                                    |
+| [Screely](https://www.screely.com/)                  | Instantly turn a screenshot into a browser mockup                                                                                                                                           |
+| [Parrot Live](https://github.com/hugomd/parrot.live) | Using frames from terminal-parrot, to allow any computer with curl to display an animated party parrot                                                                                      |
+| [ASCII Cinema](https://asciinema.org/)               | Record and share your terminal sessions, the simple way.                                                                                                                                    |
+| [Github Gist](https://gist.github.com/)              | Share snippets or excerpts of data/code with others                                                                                                                                         |
+| [Regex 101](https://regex101.com/)                   | Build, test, and debug Regex. They have regex cheatsheet in here also                                                                                                                       |
+| [Snyk](https://snyk.io/test/)                        | Check for known vulnerabilities in public GitHub repos, npm packages and Docker images                                                                                                      |
+| [FauxID](https://fauxid.com/)                        | Fake name & ID generator. Including bank address, phone number, DOB, banking number, companies and others! To make dummy data without you need to think                                     |
 
 #### 📒 Resources
 
