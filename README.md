@@ -95,6 +95,7 @@
 | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | [Ultimate Web Development Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) | A collection of Web Developement Resources at one place                            |
 | [App Ideas](https://github.com/florinpop17/app-ideas)                                                    | A Collection of application ideas which can be used to improve your coding skills. |
+| [Awesome Web Dev Resources](https://web-dev-resources.com/#/)                                            | This is an awesome project about Web Development resources.                        |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
