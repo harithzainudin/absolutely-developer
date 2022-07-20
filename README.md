@@ -221,6 +221,7 @@ This is the only repository that you need to know, it contains everything!
 | [Regex 101](https://regex101.com/)                   | Build, test, and debug Regex. They have regex cheatsheet in here also                                                                                                                       |
 | [Snyk](https://snyk.io/test/)                        | Check for known vulnerabilities in public GitHub repos, npm packages and Docker images                                                                                                      |
 | [FauxID](https://fauxid.com/)                        | Fake name & ID generator. Including bank address, phone number, DOB, banking number, companies and others! To make dummy data without you need to think                                     |
+| [Learn Anything](https://learn-anything.xyz/)        | The platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community                                                        |
 
 #### 📒 Resources
 
