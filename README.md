@@ -226,6 +226,7 @@ This is the only repository that you need to know, it contains everything!
 | [Learn Anything](https://learn-anything.xyz/)        | The platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community                                                        |
 | [Loom](https://www.loom.com/)                        | Record quick videos of your screen and cam. An essential tool for hybrid workplaces                                                                                                         |
 | [DrawKit](https://drawkit.com/)                      | Beautiful, free illustrations. Hand-drawn vector illustrations and icon resources, perfect for your next project.                                                                           |
+| [Uneed](https://www.uneed.best/)                     | The best tools on the internet, curated by hand, daily                                                                                                                                      |
 
 #### 📒 Resources
 
