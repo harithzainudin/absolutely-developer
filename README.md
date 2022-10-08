@@ -225,6 +225,7 @@ This is the only repository that you need to know, it contains everything!
 | [FauxID](https://fauxid.com/)                        | Fake name & ID generator. Including bank address, phone number, DOB, banking number, companies and others! To make dummy data without you need to think                                     |
 | [Learn Anything](https://learn-anything.xyz/)        | The platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community                                                        |
 | [Loom](https://www.loom.com/)                        | Record quick videos of your screen and cam. An essential tool for hybrid workplaces                                                                                                         |
+| [DrawKit](https://drawkit.com/)                      | Beautiful, free illustrations. Hand-drawn vector illustrations and icon resources, perfect for your next project.                                                                           |
 
 #### 📒 Resources
 
