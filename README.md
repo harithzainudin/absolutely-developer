@@ -112,6 +112,7 @@
 This is the only repository that you need to know, it contains everything!
 
 [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
+[Creative Tim: Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
 
 😎 Awesome things related to Tailwind CSS
 
