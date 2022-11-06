@@ -185,19 +185,19 @@ This is the only repository that you need to know, it contains everything!
 
 #### 🛠 Tools/Development
 
-| Name                                                                                | Description                                                                                                              |
-| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Socialify](https://socialify.git.ci/)                                              | Generate a beautiful project image                                                                                       |
-| [Shields](https://shields.io/)                                                      | Service for creating legible badges in SVG format, which can easily be included in GitHub readmes or any other web page. |
-| [Readme-Gen](https://readme-gen.vercel.app/)                                        | Advanced README generator for GitHub projects                                                                            |
-| [Stackedit](https://stackedit.io/)                                                  | In browser Markdown editor                                                                                               |
-| [Online Markdown Table of Contents Generator](https://luciopaiva.com/markdown-toc/) | Generate Table of Contents for your markdown file                                                                        |
-| [readme.so](https://readme.so/)                                                     | Simple editor that allows you to quickly add and customize all the sections you need for your project's readme           |
-| [Github Profile ReadmMe Maker](https://gprm.itsvg.in/)                              | Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !  |
-|[https://www.profileme.dev/](ProfileMe)|Create an amazing GitHub profile in minutes|
-|[https://reheader.glitch.me/](REHeader)|Generate beautiful header images for your GitHub profile READMEs.|
-|[https://rahuldkjain.github.io/gh-profile-readme-generator/](Github Profile Readme Generator)|Direct and Straightforward Github Profile Readme Generator|
-|[https://profilinator.rishav.dev/](Profilinator)|Another Profile Readme Generator that contain many skillset|
+| Name                                                                                          | Description                                                                                                              |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [Socialify](https://socialify.git.ci/)                                                        | Generate a beautiful project image                                                                                       |
+| [Shields](https://shields.io/)                                                                | Service for creating legible badges in SVG format, which can easily be included in GitHub readmes or any other web page. |
+| [Readme-Gen](https://readme-gen.vercel.app/)                                                  | Advanced README generator for GitHub projects                                                                            |
+| [Stackedit](https://stackedit.io/)                                                            | In browser Markdown editor                                                                                               |
+| [Online Markdown Table of Contents Generator](https://luciopaiva.com/markdown-toc/)           | Generate Table of Contents for your markdown file                                                                        |
+| [readme.so](https://readme.so/)                                                               | Simple editor that allows you to quickly add and customize all the sections you need for your project's readme           |
+| [Github Profile ReadmMe Maker](https://gprm.itsvg.in/)                                        | Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !  |
+| [ProfileMe](https://www.profileme.dev/)                                                       | Create an amazing GitHub profile in minutes                                                                              |
+| [REHeader](https://reheader.glitch.me/)                                                       | Generate beautiful header images for your GitHub profile READMEs.                                                        |
+| [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) | Direct and Straightforward Github Profile Readme Generator                                                               |
+| [Profilinator](https://profilinator.rishav.dev/)                                              | Another Profile Readme Generator that contain many skillset                                                              |
 
 #### 📒 Resources
 
