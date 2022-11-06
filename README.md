@@ -196,6 +196,7 @@ This is the only repository that you need to know, it contains everything!
 | [Github Profile ReadmMe Maker](https://gprm.itsvg.in/)                              | Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !  |
 |[https://www.profileme.dev/](ProfileMe)|Create an amazing GitHub profile in minutes|
 |[https://reheader.glitch.me/](REHeader)|Generate beautiful header images for your GitHub profile READMEs.|
+|[https://rahuldkjain.github.io/gh-profile-readme-generator/](Github Profile Readme Generator)|Direct and Straightforward Github Profile Readme Generator|
 
 #### 📒 Resources
 
