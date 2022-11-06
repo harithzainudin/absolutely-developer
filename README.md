@@ -197,6 +197,7 @@ This is the only repository that you need to know, it contains everything!
 |[https://www.profileme.dev/](ProfileMe)|Create an amazing GitHub profile in minutes|
 |[https://reheader.glitch.me/](REHeader)|Generate beautiful header images for your GitHub profile READMEs.|
 |[https://rahuldkjain.github.io/gh-profile-readme-generator/](Github Profile Readme Generator)|Direct and Straightforward Github Profile Readme Generator|
+|[https://profilinator.rishav.dev/](Profilinator)|Another Profile Readme Generator that contain many skillset|
 
 #### 📒 Resources
 
