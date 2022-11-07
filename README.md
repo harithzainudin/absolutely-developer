@@ -40,9 +40,10 @@
 
 #### 📒 Resources
 
-| Name                                                                                                                                                                                                                                                                                                               | Description                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| [AWS Hands-On Tutorial](https://aws.amazon.com/getting-started/hands-on/?awsf.getting-started-category=*all&awsf.getting-started-content-type=*all&getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-level=*all&awsm.page-getting-started-all=1) | Get started with step-by-step tutorials to launch your first application |
+| Name                                                                                                                                                                                                                                                                                                               | Description                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| [AWS Hands-On Tutorial](https://aws.amazon.com/getting-started/hands-on/?awsf.getting-started-category=*all&awsf.getting-started-content-type=*all&getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-level=*all&awsm.page-getting-started-all=1) | Get started with step-by-step tutorials to launch your first application                                                     |
+| [AWS CLI Command Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/index.html)                                                                                                                                                                                                                   | The AWS Command Line Interface is a unified tool that provides a consistent interface for interacting with all parts of AWS. |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
@@ -58,8 +59,8 @@
 
 #### 📒 Resources
 
-| Name                                                        | Description                                  |
-| ----------------------------------------------------------- | -------------------------------------------- |
+| Name                                                        | Description                          |
+| ----------------------------------------------------------- | ------------------------------------ |
 | [Serverless Examples](https://www.serverless.com/examples/) | Real world serverless code examples. |
 
 [🆙 Go to Table of Contents](#table-of-contents)
