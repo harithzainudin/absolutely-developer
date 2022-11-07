@@ -10,6 +10,7 @@
 
 - [📦 Content](#-content)
   - [Amazon Web Services](#amazon-web-services-aws)
+  - [Serverless](#serverless)
   - [Javascript](#javascript)
   - [Python](#python)
   - [Web Development](#web-development)
@@ -42,6 +43,24 @@
 | Name                                                                                                                                                                                                                                                                                                               | Description                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
 | [AWS Hands-On Tutorial](https://aws.amazon.com/getting-started/hands-on/?awsf.getting-started-category=*all&awsf.getting-started-content-type=*all&getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-level=*all&awsm.page-getting-started-all=1) | Get started with step-by-step tutorials to launch your first application |
+
+[🆙 Go to Table of Contents](#table-of-contents)
+
+---
+
+### Serverless
+
+#### 🛠 Tools/Development
+
+| Name | Description |
+| ---- | ----------- |
+|      |             |
+
+#### 📒 Resources
+
+| Name                                                        | Description                                  |
+| ----------------------------------------------------------- | -------------------------------------------- |
+| [Serverless Examples](https://www.serverless.com/examples/) | Real world serverless code examples. |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
