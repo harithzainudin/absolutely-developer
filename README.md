@@ -276,6 +276,7 @@ This is the only repository that you need to know, it contains everything!
 | [DrawKit](https://drawkit.com/)                           | Beautiful, free illustrations. Hand-drawn vector illustrations and icon resources, perfect for your next project.                                                                           |
 | [Uneed](https://www.uneed.best/)                          | The best tools on the internet, curated by hand, daily                                                                                                                                      |
 | [ASCII Tree Generator](https://ascii-tree-generator.com/) | Visualize and create your perfect folder structure for your next project. Easily convert to an ASCII format to save to your documentation.                                                  |
+| [Coding Game](https://www.codingame.com/start)            | Step up your coding game. The new way to improve your programming skills while having fun and getting noticed                                                                               |
 
 #### 📒 Resources
 
