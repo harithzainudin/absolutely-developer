@@ -136,12 +136,13 @@
 
 #### 📒 Resources
 
-| Name                                                                                                     | Description                                                                                |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [Ultimate Web Development Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) | A collection of Web Developement Resources at one place                                    |
-| [App Ideas](https://github.com/florinpop17/app-ideas)                                                    | A Collection of application ideas which can be used to improve your coding skills.         |
-| [Awesome Web Dev Resources](https://web-dev-resources.com/#/)                                            | This is an awesome project about Web Development resources.                                |
-| [CollectUI](https://collectui.com/)                                                                      | Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily. |
+| Name                                                                                                     | Description                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| [Ultimate Web Development Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) | A collection of Web Developement Resources at one place                                                                            |
+| [App Ideas](https://github.com/florinpop17/app-ideas)                                                    | A Collection of application ideas which can be used to improve your coding skills.                                                 |
+| [Awesome Web Dev Resources](https://web-dev-resources.com/#/)                                            | This is an awesome project about Web Development resources.                                                                        |
+| [CollectUI](https://collectui.com/)                                                                      | Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily.                                         |
+| [Big List of Naughty String](https://github.com/minimaxir/big-list-of-naughty-strings)                   | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
