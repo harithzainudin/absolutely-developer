@@ -95,15 +95,15 @@
 
 #### 🛠 Tools/Development
 
-| Name | Description |
-| ---- | ----------- |
-|      |             |
+| Name                                                 | Description                                                                                                                                                                                                                |
+| ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [TS-toolbelt](https://millsp.github.io/ts-toolbelt/) | TypeScript's largest utility library. Spend less time, build stronger. Benefit from a wide range of generic type functions to achieve better type safety. Work just like lodash, or ramda, but applied to the type system. |
 
 #### 📒 Resources
 
 | Name | Description |
 | ---- | ----------- |
-| []() |             |
+|      |             |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
