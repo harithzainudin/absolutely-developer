@@ -102,9 +102,11 @@
 
 #### 📒 Resources
 
-| Name | Description |
-| ---- | ----------- |
-|      |             |
+| Name                                                                 | Description                                                                                                                                                                                                                                                                                                                                                                     |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Type Challenge](https://github.com/type-challenges/type-challenges) | Collection of TypeScript type challenges with online judge. This project is aimed at helping you better understand how the type system works, writing your own utilities, or just having fun with the challenges. We are also trying to form a community where you can ask questions and get answers you have faced in the real world - they may become part of the challenges! |
+
+          |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
