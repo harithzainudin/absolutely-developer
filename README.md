@@ -95,9 +95,10 @@
 
 #### 🛠 Tools/Development
 
-| Name                                                 | Description                                                                                                                                                                                                                |
-| ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [TS-toolbelt](https://millsp.github.io/ts-toolbelt/) | TypeScript's largest utility library. Spend less time, build stronger. Benefit from a wide range of generic type functions to achieve better type safety. Work just like lodash, or ramda, but applied to the type system. |
+| Name                                                         | Description                                                                                                                                                                                                                |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [TS-toolbelt](https://millsp.github.io/ts-toolbelt/)         | TypeScript's largest utility library. Spend less time, build stronger. Benefit from a wide range of generic type functions to achieve better type safety. Work just like lodash, or ramda, but applied to the type system. |
+| [Utility Types](https://github.com/piotrwitek/utility-types) | Collection of utility types, complementing TypeScript built-in mapped types and aliases (think "lodash" for static types).                                                                                                 |
 
 #### 📒 Resources
 
