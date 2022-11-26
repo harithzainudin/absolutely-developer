@@ -12,6 +12,7 @@
   - [Amazon Web Services (AWS)](#amazon-web-services-aws)
   - [Serverless](#serverless)
   - [Javascript](#javascript)
+  - [Typescript](#typescript)
   - [Python](#python)
   - [Web Development](#web-development)
     - [Tailwind CSS](#tailwind-css)
@@ -90,6 +91,24 @@
 
 ---
 
+### Typescript
+
+#### 🛠 Tools/Development
+
+| Name | Description |
+| ---- | ----------- |
+|      |             |
+
+#### 📒 Resources
+
+| Name | Description |
+| ---- | ----------- |
+| []() |             |
+
+[🆙 Go to Table of Contents](#table-of-contents)
+
+---
+
 ### Python
 
 #### 🛠 Tools/Development
@@ -133,7 +152,7 @@
 | [UX Challenges](https://uxtools.co/challenges/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Practical UX skills and tools and A collection of exercises on Ux design for websites.                                                                                                                                   |
 | [Patternpad](https://patternpad.com/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Design beautiful patterns from endless variations                                                                                                                                                                        |
 | [Jam](https://jam.dev)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Report bugs in seconds, without disrupting your workflow. Capture your screen plus developer logs in one click. It’s so easy, you’ll forget you hate bugs.                                                               |
-|[Locofy](https://www.locofy.ai/)|Turn your designs into production-ready frontend code for mobile apps and web|
+| [Locofy](https://www.locofy.ai/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Turn your designs into production-ready frontend code for mobile apps and web                                                                                                                                            |
 
 #### 📒 Resources
 
