@@ -9,7 +9,7 @@
 ## Table of contents
 
 - [📦 Content](#-content)
-  - [Amazon Web Services](#amazon-web-services-aws)
+  - [Amazon Web Services (AWS)](#amazon-web-services-aws)
   - [Serverless](#serverless)
   - [Javascript](#javascript)
   - [Python](#python)
