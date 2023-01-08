@@ -74,9 +74,10 @@
 
 #### 🛠 Tools/Development
 
-| Name                                      | Description                                          |
-| ----------------------------------------- | ---------------------------------------------------- |
-| [Bundlephobia](https://bundlephobia.com/) | Find the cost of adding a npm package to your bundle |
+| Name                                      | Description                                                                                                                                                                                                                                                                               |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Bundlephobia](https://bundlephobia.com/) | Find the cost of adding a npm package to your bundle                                                                                                                                                                                                                                      |
+| [Flow](https://flow.org/)                 | This is alternative to TypeScript. Flow is a static type checker for your JavaScript code. It does a lot of work to make you more productive. Making you code faster, smarter, more confidently, and to a bigger scale. Flow checks your code for errors through static type annotations. |
 
 #### 📒 Resources
 
