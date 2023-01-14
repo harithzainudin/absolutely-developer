@@ -316,11 +316,12 @@ This is the only repository that you need to know, it contains everything!
 
 ### Websites and Publications
 
-| Name                                     | Description                                                                                                                                                                 |
-| ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Dev.to](https://dev.to/)                | Community of amazing Developers. Place where coders share, stay up-to-date and grow their careers                                                                           |
-| [daily.dev](https://app.daily.dev/)      | Platform where you can find so many good articles to read daily. It shows the best articles from various platforms directly in your feed. They have browser extension also. |
-| [Scrum Guides](https://scrumguides.org/) | Official Scrum Body of Knowledge. It was written by Ken Schwaber and Jeff Sutherland, co-creators of Scrum.                                                                 |
+| Name                                     | Description                                                                                                                                                                                                                                                                                                                 |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Dev.to](https://dev.to/)                | Community of amazing Developers. Place where coders share, stay up-to-date and grow their careers                                                                                                                                                                                                                           |
+| [daily.dev](https://app.daily.dev/)      | Platform where you can find so many good articles to read daily. It shows the best articles from various platforms directly in your feed. They have browser extension also.                                                                                                                                                 |
+| [Scrum Guides](https://scrumguides.org/) | Official Scrum Body of Knowledge. It was written by Ken Schwaber and Jeff Sutherland, co-creators of Scrum.                                                                                                                                                                                                                 |
+| [Scrum Org](https://www.scrum.org/)      | Scrum.org, the Home of Scrum, was founded by Scrum co-creator Ken Schwaber as a mission-based organization to help people and teams solve complex problems. We do this by enabling people to apply Professional Scrum through training courses, certifications and ongoing learning all based on a common competency model. |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
