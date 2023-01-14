@@ -321,6 +321,7 @@ This is the only repository that you need to know, it contains everything!
 | [daily.dev](https://app.daily.dev/)                                                         | Platform where you can find so many good articles to read daily. It shows the best articles from various platforms directly in your feed. They have browser extension also.                                                                       |
 | [Programmer Humor](https://programmerhumor.io/)                                             | Various memes and jokes related to programming and developers. Have Fun.                                                                                                                                                                          |
 | [Dev.to](https://dev.to/)                                                                   | Community of amazing Developers. Place where coders share, stay up-to-date and grow their careers                                                                                                                                                 |
+| [Scrum Guides](https://scrumguides.org/)                                                    | Official Scrum Body of Knowledge. It was written by Ken Schwaber and Jeff Sutherland, co-creators of Scrum.                                                                                                                                       |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
