@@ -94,6 +94,7 @@
 | [Node.js best Practice](https://github.com/goldbergyoni/nodebestpractices)                                     | Contain all Node.js best practices                                                                                 |
 | [Practica](https://github.com/practicajs/practica)                                                             | Node.js solution starter that is production-ready, packed with ✅ best practices and built with simplicity in mind |
 | [Data Structures Algorithms JS](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) | 🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook                                   |
+| [Javscript Algorithms](https://github.com/trekhleb/javascript-algorithms)                                      | This repository contains JavaScript based examples of many popular algorithms and data structures.                 |
 
 We concentrate on the language itself here, with the minimum of environment-specific notes.|
 
