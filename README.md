@@ -8,7 +8,7 @@
 
 ## Table of contents
 
-- [📦 Content](#-content)
+- [📦 Content](#📦-content)
   - [Amazon Web Services (AWS)](#amazon-web-services-aws)
   - [Serverless](#serverless)
   - [Javascript](#javascript)
@@ -23,10 +23,10 @@
   - [Markdown/Readme](#markdownreadme)
   - [Miscellaneous](#miscellaneous)
     - [Websites and Publications](#websites-and-publications)
-- [🍰 Contribution Guidelines](#-contribution-guidelines)
-- [💻 Built with](#-built-with)
-- [🛡️ License](#-license)
-- [💖Like my work?](#-like-my-work)
+- [🍰 Contribution Guidelines](#🍰-contribution-guidelines)
+- [💻 Built with](#💻-built-with)
+- [🛡️ License](#🛡️-license)
+- [💖Like my work?](#💖-like-my-work)
 
 ---
 
