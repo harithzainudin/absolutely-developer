@@ -258,20 +258,21 @@ This is the only repository that you need to know, it contains everything!
 
 #### 🛠 Tools/Development
 
-| Name                                                 | Description                                                                                                                                             |
-| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Parrot Live](https://github.com/hugomd/parrot.live) | Using frames from terminal-parrot, to allow any computer with curl to display an animated party parrot                                                  |
-| [Github Gist](https://gist.github.com/)              | Share snippets or excerpts of data/code with others                                                                                                     |
-| [Regex 101](https://regex101.com/)                   | Build, test, and debug Regex. They have regex cheatsheet in here also                                                                                   |
-| [Snyk](https://snyk.io/test/)                        | Check for known vulnerabilities in public GitHub repos, npm packages and Docker images                                                                  |
-| [FauxID](https://fauxid.com/)                        | Fake name & ID generator. Including bank address, phone number, DOB, banking number, companies and others! To make dummy data without you need to think |
-| [Learn Anything](https://learn-anything.xyz/)        | The platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community                    |
-| [Loom](https://www.loom.com/)                        | Record quick videos of your screen and cam. An essential tool for hybrid workplaces                                                                     |
-| [DrawKit](https://drawkit.com/)                      | Beautiful, free illustrations. Hand-drawn vector illustrations and icon resources, perfect for your next project.                                       |
-| [Uneed](https://www.uneed.best/)                     | The best tools on the internet, curated by hand, daily                                                                                                  |
-| [Coding Game](https://www.codingame.com/start)       | Step up your coding game. The new way to improve your programming skills while having fun and getting noticed                                           |
-| [jscpd](https://github.com/kucherenko/jscpd)         | Copy/paste detector for programming source code.                                                                                                        |
-| [Codiga](https://www.codiga.io/)                     | Customizable static code analysis that works in your IDE, CI/CD pipelines and more                                                                      |
+| Name                                                 | Description                                                                                                                                                                       |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Parrot Live](https://github.com/hugomd/parrot.live) | Using frames from terminal-parrot, to allow any computer with curl to display an animated party parrot                                                                            |
+| [Github Gist](https://gist.github.com/)              | Share snippets or excerpts of data/code with others                                                                                                                               |
+| [Regex 101](https://regex101.com/)                   | Build, test, and debug Regex. They have regex cheatsheet in here also                                                                                                             |
+| [Snyk](https://snyk.io/test/)                        | Check for known vulnerabilities in public GitHub repos, npm packages and Docker images                                                                                            |
+| [FauxID](https://fauxid.com/)                        | Fake name & ID generator. Including bank address, phone number, DOB, banking number, companies and others! To make dummy data without you need to think                           |
+| [Learn Anything](https://learn-anything.xyz/)        | The platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community                                              |
+| [Loom](https://www.loom.com/)                        | Record quick videos of your screen and cam. An essential tool for hybrid workplaces                                                                                               |
+| [DrawKit](https://drawkit.com/)                      | Beautiful, free illustrations. Hand-drawn vector illustrations and icon resources, perfect for your next project.                                                                 |
+| [Uneed](https://www.uneed.best/)                     | The best tools on the internet, curated by hand, daily                                                                                                                            |
+| [Coding Game](https://www.codingame.com/start)       | Step up your coding game. The new way to improve your programming skills while having fun and getting noticed                                                                     |
+| [jscpd](https://github.com/kucherenko/jscpd)         | Copy/paste detector for programming source code.                                                                                                                                  |
+| [Codiga](https://www.codiga.io/)                     | Customizable static code analysis that works in your IDE, CI/CD pipelines and more                                                                                                |
+| [CodeGeeX](https://codegeex.ai/)                     | Free AI Coding Assistant.  Automatic Code Generation, Functional-level Code Completion, Cross-lingual Code Translation, 10+ Programming Languages, Support VSCode, Jetbrains IDEs |
 
 #### 📒 Resources
 
