@@ -8,7 +8,7 @@
 
 ## Table of contents
 
-- [📦 Content](#📦-content)
+- [📦 Content](#content)
   - [Amazon Web Services (AWS)](#amazon-web-services-aws)
   - [Serverless](#serverless)
   - [Javascript](#javascript)
@@ -23,14 +23,14 @@
   - [Markdown/Readme](#markdownreadme)
   - [Miscellaneous](#miscellaneous)
     - [Websites and Publications](#websites-and-publications)
-- [🍰 Contribution Guidelines](#🍰-contribution-guidelines)
-- [💻 Built with](#💻-built-with)
-- [🛡️ License](#🛡️-license)
-- [💖Like my work?](#💖-like-my-work)
+- [🍰 Contribution Guidelines](#contribution-guidelines)
+- [💻 Built with](#built-with)
+- [🛡️ License](#license)
+- [💖Like my work?](#like-my-work)
 
 ---
 
-## 📦 Content:
+## Content:
 
 ### Amazon Web Services (AWS)
 
@@ -337,20 +337,20 @@ This is the only repository that you need to know, it contains everything!
 
 ---
 
-## 🍰 Contribution Guidelines
+## Contribution Guidelines
 
 Well if you want to contribute just submit a pull request and I will review it! Feel free to add anything that you think is useful. There are no particular guidelines but at least make it easy for other people to read @@
 
-## 💻 Built with
+## Built with
 
 - ❤️ Love
 
 ---
 
-## 🛡️ License
+## License
 
 This project is licensed under the [MIT License](https://github.com/harithzainudin/absolutely-developer/blob/main/LICENSE)
 
-## 💖 Like my work?
+## Like my work?
 
 Hmm I just want other people to benefit from this repo. Feel free to give me any other suggestions to improve this repository. You can start a discussion I believe or create a pull request to discuss
