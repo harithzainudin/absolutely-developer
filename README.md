@@ -283,6 +283,7 @@ This is the only repository that you need to know, it contains everything!
 | [CodeGeeX](https://codegeex.ai/)                     | Free AI Coding Assistant.  Automatic Code Generation, Functional-level Code Completion, Cross-lingual Code Translation, 10+ Programming Languages, Support VSCode, Jetbrains IDEs         |
 | [Thunderclient](https://www.thunderclient.com/)      | Hand-crafted lightweight Rest Client for Testing APIs                                                                                                                                     |
 | [Exercism](https://exercism.org/)                    | Get really good at programming. Develop fluency in 62 programming languages with our unique blend of learning, practice and mentoring. Exercism is fun, effective and 100% free, forever. |
+| [Streamline](https://www.streamlinehq.com/)          | Access the world's largest and most consistent icon and illustration sets. Customise 140,000+ vector graphics, and add them to your projects in seconds ⚡️                               |
 
 #### 📒 Resources
 
