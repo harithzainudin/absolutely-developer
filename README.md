@@ -83,12 +83,15 @@
 
 #### 📒 Resources
 
-| Name                                                                          | Description                                                                      |
-| ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| [Ultimate Node js](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources) | All resources related to Node Js at one place.                                   |
-| [You don't know Js yet](https://github.com/getify/You-Dont-Know-JS)           | Series of books diving deep into the core mechanisms of the JavaScript language. |
-| [Javascript Questions](https://github.com/lydiahallie/javascript-questions)   | A long list of (advanced) JavaScript questions, and their explanations ✨        |
-| [33 js Concepts](https://github.com/leonardomso/33-js-concepts)               | 📜 33 JavaScript concepts every developer should know.                           |
+| Name                                                                          | Description                                                                              |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [Ultimate Node js](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources) | All resources related to Node Js at one place.                                           |
+| [You don't know Js yet](https://github.com/getify/You-Dont-Know-JS)           | Series of books diving deep into the core mechanisms of the JavaScript language.         |
+| [Javascript Questions](https://github.com/lydiahallie/javascript-questions)   | A long list of (advanced) JavaScript questions, and their explanations ✨                |
+| [33 js Concepts](https://github.com/leonardomso/33-js-concepts)               | 📜 33 JavaScript concepts every developer should know.                                   |
+| [Javscript Info](https://javascript.info/)                                    | Here we learn JavaScript, starting from scratch and go on to advanced concepts like OOP. |
+
+We concentrate on the language itself here, with the minimum of environment-specific notes.|
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
