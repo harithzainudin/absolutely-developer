@@ -20,10 +20,10 @@
     - [Vuetify](#vuetify)
   - [DevOps](#devops)
   - [Git](#git)
-  - [Markdown/Readme](#markdownreadme)
   - [Miscellaneous](#miscellaneous)
     - [Websites and Publications](#websites-and-publications)
     - [Beautify and Create](#beautify-and-create)
+    - [Markdown/Readme](#markdownreadme)
 - [🍰 Contribution Guidelines](#contribution-guidelines)
 - [💻 Built with](#built-with)
 - [🛡️ License](#license)
@@ -251,32 +251,6 @@ This is the only repository that you need to know, it contains everything!
 
 ---
 
-### Markdown/Readme
-
-#### 🛠 Tools/Development
-
-| Name                                                                                          | Description                                                                                                             |
-| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| [Readme-Gen](https://readme-gen.vercel.app/)                                                  | Advanced README generator for GitHub projects                                                                           |
-| [Stackedit](https://stackedit.io/)                                                            | In browser Markdown editor                                                                                              |
-| [Online Markdown Table of Contents Generator](https://luciopaiva.com/markdown-toc/)           | Generate Table of Contents for your markdown file                                                                       |
-| [readme.so](https://readme.so/)                                                               | Simple editor that allows you to quickly add and customize all the sections you need for your project's readme          |
-| [Github Profile ReadmMe Maker](https://gprm.itsvg.in/)                                        | Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! |
-| [ProfileMe](https://www.profileme.dev/)                                                       | Create an amazing GitHub profile in minutes                                                                             |
-| [REHeader](https://reheader.glitch.me/)                                                       | Generate beautiful header images for your GitHub profile READMEs.                                                       |
-| [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) | Direct and Straightforward Github Profile Readme Generator                                                              |
-| [Profilinator](https://profilinator.rishav.dev/)                                              | Another Profile Readme Generator that contain many skillset                                                             |
-
-#### 📒 Resources
-
-| Name                                                                                           | Description                                       |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [Markdown here - cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | Markdown cheatsheet from Markdown here repository |
-
-[🆙 Go to Table of Contents](#table-of-contents)
-
----
-
 ### Miscellaneous
 
 #### 🛠 Tools/Development
@@ -344,6 +318,32 @@ This is the only repository that you need to know, it contains everything!
 | [Socialify](https://socialify.git.ci/)                    | Generate a beautiful project image                                                                                                                                                          |
 | [Shields](https://shields.io/)                            | Service for creating legible badges in SVG format, which can easily be included in GitHub readmes or any other web page.                                                                    |
 | [resume.io](https://resume.io/)                           | Create a professional resume by providing you with well-tested templates                                                                                                                    |
+
+[🆙 Go to Table of Contents](#table-of-contents)
+
+---
+
+### Markdown/Readme
+
+#### 🛠 Tools/Development
+
+| Name                                                                                          | Description                                                                                                             |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [Readme-Gen](https://readme-gen.vercel.app/)                                                  | Advanced README generator for GitHub projects                                                                           |
+| [Stackedit](https://stackedit.io/)                                                            | In browser Markdown editor                                                                                              |
+| [Online Markdown Table of Contents Generator](https://luciopaiva.com/markdown-toc/)           | Generate Table of Contents for your markdown file                                                                       |
+| [readme.so](https://readme.so/)                                                               | Simple editor that allows you to quickly add and customize all the sections you need for your project's readme          |
+| [Github Profile ReadmMe Maker](https://gprm.itsvg.in/)                                        | Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! |
+| [ProfileMe](https://www.profileme.dev/)                                                       | Create an amazing GitHub profile in minutes                                                                             |
+| [REHeader](https://reheader.glitch.me/)                                                       | Generate beautiful header images for your GitHub profile READMEs.                                                       |
+| [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) | Direct and Straightforward Github Profile Readme Generator                                                              |
+| [Profilinator](https://profilinator.rishav.dev/)                                              | Another Profile Readme Generator that contain many skillset                                                             |
+
+#### 📒 Resources
+
+| Name                                                                                           | Description                                       |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| [Markdown here - cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | Markdown cheatsheet from Markdown here repository |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
