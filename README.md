@@ -22,6 +22,7 @@
   - [Git](#git)
   - [Markdown/Readme](#markdownreadme)
   - [Miscellaneous](#miscellaneous)
+    - [Websites and Publications](#websites-and-publications)
 - [🍰 Contribution Guidelines](#-contribution-guidelines)
 - [💻 Built with](#-built-with)
 - [🛡️ License](#-license)
@@ -318,10 +319,19 @@ This is the only repository that you need to know, it contains everything!
 | [Build your own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-game) | Master programming by recreating your favorite technologies from scratch.                                                                                                                                                                         |
 | [DevDocs](https://devdocs.io/)                                                              | Brings together numerous API documentation in a single, searchable interface. You will find docs related to various programming languages, technologies in one place                                                                              |
 | [Developer Roadmaps](https://roadmap.sh/)                                                   | Community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings                                                                                           |
-| [daily.dev](https://app.daily.dev/)                                                         | Platform where you can find so many good articles to read daily. It shows the best articles from various platforms directly in your feed. They have browser extension also.                                                                       |
 | [Programmer Humor](https://programmerhumor.io/)                                             | Various memes and jokes related to programming and developers. Have Fun.                                                                                                                                                                          |
-| [Dev.to](https://dev.to/)                                                                   | Community of amazing Developers. Place where coders share, stay up-to-date and grow their careers                                                                                                                                                 |
 | [Scrum Guides](https://scrumguides.org/)                                                    | Official Scrum Body of Knowledge. It was written by Ken Schwaber and Jeff Sutherland, co-creators of Scrum.                                                                                                                                       |
+
+[🆙 Go to Table of Contents](#table-of-contents)
+
+---
+
+### Websites and Publications
+
+| Name                                | Description                                                                                                                                                                 |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Dev.to](https://dev.to/)           | Community of amazing Developers. Place where coders share, stay up-to-date and grow their careers                                                                           |
+| [daily.dev](https://app.daily.dev/) | Platform where you can find so many good articles to read daily. It shows the best articles from various platforms directly in your feed. They have browser extension also. |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
