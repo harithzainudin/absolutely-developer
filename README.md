@@ -293,6 +293,7 @@ This is the only repository that you need to know, it contains everything!
 | [DrawKit](https://drawkit.com/)                      | Beautiful, free illustrations. Hand-drawn vector illustrations and icon resources, perfect for your next project.                                       |
 | [Uneed](https://www.uneed.best/)                     | The best tools on the internet, curated by hand, daily                                                                                                  |
 | [Coding Game](https://www.codingame.com/start)       | Step up your coding game. The new way to improve your programming skills while having fun and getting noticed                                           |
+| [jscpd](https://github.com/kucherenko/jscpd)         | Copy/paste detector for programming source code.                                                                                                        |
 
 #### 📒 Resources
 
