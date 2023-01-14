@@ -279,6 +279,7 @@ This is the only repository that you need to know, it contains everything!
 | [jscpd](https://github.com/kucherenko/jscpd)         | Copy/paste detector for programming source code.                                                                                                                                  |
 | [Codiga](https://www.codiga.io/)                     | Customizable static code analysis that works in your IDE, CI/CD pipelines and more                                                                                                |
 | [CodeGeeX](https://codegeex.ai/)                     | Free AI Coding Assistant.  Automatic Code Generation, Functional-level Code Completion, Cross-lingual Code Translation, 10+ Programming Languages, Support VSCode, Jetbrains IDEs |
+| [Thunderclient](https://www.thunderclient.com/)      | Hand-crafted lightweight Rest Client for Testing APIs                                                                                                                             |
 
 #### 📒 Resources
 
