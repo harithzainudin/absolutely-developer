@@ -231,9 +231,9 @@ This is the only repository that you need to know, it contains everything!
 
 #### 🛠 Tools/Development
 
-| Name | Description |
-| ---- | ----------- |
-|      |             |
+| Name                                         | Description                                                                                                                                                                    |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Husky](https://typicode.github.io/husky/#/) | Husky improves your commits and more 🐶 woof! You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. Husky supports all Git hooks. |
 
 #### 📒 Resources
 
