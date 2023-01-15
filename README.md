@@ -304,8 +304,6 @@ This is the only repository that you need to know, it contains everything!
 | [Programmer Humor](https://programmerhumor.io/)                                             | Various memes and jokes related to programming and developers. Have Fun.                                                                                                                                                                          |
 | [Free for Dev](https://github.com/ripienaar/free-for-dev)                                   | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev                                                                                                                                                   |
 
-|
-
 [🆙 Go to Table of Contents](#table-of-contents)
 
 ---
