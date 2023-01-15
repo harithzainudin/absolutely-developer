@@ -302,6 +302,9 @@ This is the only repository that you need to know, it contains everything!
 | [DevDocs](https://devdocs.io/)                                                              | Brings together numerous API documentation in a single, searchable interface. You will find docs related to various programming languages, technologies in one place                                                                              |
 | [Developer Roadmaps](https://roadmap.sh/)                                                   | Community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings                                                                                           |
 | [Programmer Humor](https://programmerhumor.io/)                                             | Various memes and jokes related to programming and developers. Have Fun.                                                                                                                                                                          |
+| [Free for Dev](https://github.com/ripienaar/free-for-dev)                                   | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev                                                                                                                                                   |
+
+|
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
