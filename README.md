@@ -66,9 +66,10 @@
 
 #### 📒 Resources
 
-| Name                                                        | Description                          |
-| ----------------------------------------------------------- | ------------------------------------ |
-| [Serverless Examples](https://www.serverless.com/examples/) | Real world serverless code examples. |
+| Name                                                        | Description                                                                                                                                                                                                                |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Serverless Examples](https://www.serverless.com/examples/) | Real world serverless code examples.                                                                                                                                                                                       |
+| [Serverless Land](https://serverlessland.com/)              | This site brings together the latest information, blogs, videos, code, and learning resources for AWS Serverless. Learn to use and build apps that scale automatically on low-cost, fully-managed serverless architecture. |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
