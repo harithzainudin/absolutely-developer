@@ -240,9 +240,10 @@ This is the only repository that you need to know, it contains everything!
 
 #### 📒 Resources
 
-| Name                                                               | Description                                             |
-| ------------------------------------------------------------------ | ------------------------------------------------------- |
-| [90 Days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps) | Documenting repository for learning the world of DevOps |
+| Name                                                               | Description                                                               |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| [90 Days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps) | Documenting repository for learning the world of DevOps                   |
+| [Level Up Gitlab](https://levelup.gitlab.com/)                     | Boost your DevOps skills With GitLab’s DevOps training Learn. Earn. Grow. |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
