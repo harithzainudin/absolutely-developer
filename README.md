@@ -22,7 +22,8 @@
   - [Git](#git)
   - [Miscellaneous](#miscellaneous)
     - [Websites and Publications](#websites-and-publications)
-    - [Beautify, Create, Tools](#beautify-create-tools)
+    - [Utility Tools](#utility-tools)
+    - [Beautifier Tools](#beautifier-tools)
     - [Markdown/Readme](#markdownreadme)
 - [🍰 Contribution Guidelines](#contribution-guidelines)
 - [💻 Built with](#built-with)
@@ -328,25 +329,34 @@ This is the only repository that you need to know, it contains everything!
 
 ---
 
-### Beautify, Create, Tools
+### Utility Tools
 
 | Name                                                      | Description                                                                                                                                                                                 |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ASCII Tree Generator](https://ascii-tree-generator.com/) | Visualize and create your perfect folder structure for your next project. Easily convert to an ASCII format to save to your documentation.                                                  |
-| [Screely](https://www.screely.com/)                       | Instantly turn a screenshot into a browser mockup                                                                                                                                           |
-| [Code Beautify](https://codebeautify.org/)                | Not only beautify the code, they also have different type of converter, sorter, tools, generator.. Everything, you name it!                                                                 |
-| [Profile Pic Maker](https://pfpmaker.com/)                | Creates a professional and beautiful profile for each photo in your Web developer portfolio                                                                                                 |
-| [ASCII Cinema](https://asciinema.org/)                    | Record and share your terminal sessions, the simple way.                                                                                                                                    |
 | [Small Dev Tools](https://smalldev.tools/)                | Offers a variety of free developer tools, including encoders/decoders, HTML/CSS/Javascript formatters, minifies, fake or test data generators, and more. It also allows you to share codes. |
 | [Kody tools](https://www.kodytools.com/)                  | Hub of online tools such as code formatters, code minifiers, converters, calculators, hash generators, text generators, encoders, decoders, etc.                                            |
-| [FreeCodeTools](https://freecodetools.org/)               | Build better and faster. FreeCodeTools project was created to help you to do stuff faster. It's free and always will be.                                                                    |
 | [SE Tools](https://www.setools.xyz/)                      | Free online tools                                                                                                                                                                           |
-| [ray.so](https://ray.so/)                                 | Create beautiful images of your code.                                                                                                                                                       |
-| [poest.so](https://poet.so/)                              | Create beautiful images of Twitter posts                                                                                                                                                    |
-| [Carbon](https://carbon.now.sh/)                          | Create and share beautiful images of your source code                                                                                                                                       |
-| [Socialify](https://socialify.git.ci/)                    | Generate a beautiful project image                                                                                                                                                          |
-| [Shields](https://shields.io/)                            | Service for creating legible badges in SVG format, which can easily be included in GitHub readmes or any other web page.                                                                    |
-| [resume.io](https://resume.io/)                           | Create a professional resume by providing you with well-tested templates                                                                                                                    |
+| [FreeCodeTools](https://freecodetools.org/)               | Build better and faster. FreeCodeTools project was created to help you to do stuff faster. It's free and always will be.                                                                    |
+| [ASCII Tree Generator](https://ascii-tree-generator.com/) | Visualize and create your perfect folder structure for your next project. Easily convert to an ASCII format to save to your documentation.                                                  |
+
+[🆙 Go to Table of Contents](#table-of-contents)
+
+---
+
+### Beautifier Tools
+
+| Name                                       | Description                                                                                                                 |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| [Screely](https://www.screely.com/)        | Instantly turn a screenshot into a browser mockup                                                                           |
+| [Code Beautify](https://codebeautify.org/) | Not only beautify the code, they also have different type of converter, sorter, tools, generator.. Everything, you name it! |
+| [Profile Pic Maker](https://pfpmaker.com/) | Creates a professional and beautiful profile for each photo in your Web developer portfolio                                 |
+| [ASCII Cinema](https://asciinema.org/)     | Record and share your terminal sessions, the simple way.                                                                    |
+| [ray.so](https://ray.so/)                  | Create beautiful images of your code.                                                                                       |
+| [poest.so](https://poet.so/)               | Create beautiful images of Twitter posts                                                                                    |
+| [Carbon](https://carbon.now.sh/)           | Create and share beautiful images of your source code                                                                       |
+| [Socialify](https://socialify.git.ci/)     | Generate a beautiful project image                                                                                          |
+| [Shields](https://shields.io/)             | Service for creating legible badges in SVG format, which can easily be included in GitHub readmes or any other web page.    |
+| [resume.io](https://resume.io/)            | Create a professional resume by providing you with well-tested templates                                                    |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
