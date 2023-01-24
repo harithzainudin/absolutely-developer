@@ -338,6 +338,7 @@ This is the only repository that you need to know, it contains everything!
 | [SE Tools](https://www.setools.xyz/)                      | Free online tools                                                                                                                                                                           |
 | [FreeCodeTools](https://freecodetools.org/)               | Build better and faster. FreeCodeTools project was created to help you to do stuff faster. It's free and always will be.                                                                    |
 | [ASCII Tree Generator](https://ascii-tree-generator.com/) | Visualize and create your perfect folder structure for your next project. Easily convert to an ASCII format to save to your documentation.                                                  |
+| [Array This](https://arraythis.com/)                      | Instantly convert your text list to array; valid for JS, PHP, PERL, PYTHON (as list) and much more.                                                                                         |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
