@@ -40,7 +40,6 @@
 
 | Name                                                                                | Description                                                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [EventCatalog](https://www.eventcatalog.dev/)                                       | Documentation tool for Event-Driven Architectures. It is an Open Source project that helps you document your events, services and domainsPowered by markdown, components and plugins                                                                          |
 | [AWS Lambda Power Tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) | An open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Functions - and it supports three optimization strategies: cost, speed, and balanced. |
 
 #### 📒 Resources
@@ -64,9 +63,9 @@
 
 #### 🛠 Tools/Development
 
-| Name | Description |
-| ---- | ----------- |
-|      |             |
+| Name                                          | Description                                                                                                                                                                          |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [EventCatalog](https://www.eventcatalog.dev/) | Documentation tool for Event-Driven Architectures. It is an Open Source project that helps you document your events, services and domainsPowered by markdown, components and plugins |
 
 #### 📒 Resources
 
