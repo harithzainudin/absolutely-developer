@@ -38,9 +38,9 @@
 
 #### 🛠 Tools/Development
 
-| Name | Description |
-| ---- | ----------- |
-|      |             |
+| Name                                          | Description                                                                                                                                                                          |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [EventCatalog](https://www.eventcatalog.dev/) | Documentation tool for Event-Driven Architectures. It is an Open Source project that helps you document your events, services and domainsPowered by markdown, components and plugins |
 
 #### 📒 Resources
 
