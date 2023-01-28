@@ -194,6 +194,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [50 Projects 50 Days](https://github.com/bradtraversy/50projects50days)                                  | 50+ mini web projects using HTML, CSS & JS                                                                                                                                                                                  |
 | [Hover](https://ianlunn.github.io/Hover/)                                                                | A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS. |
 | [DevHints](https://devhints.io/)                                                                         | A ridiculous collection of web developments cheatsheets                                                                                                                                                                     |
+| [Scrimba](https://scrimba.com/allcourses?price=free)                                                     | Interactive coding learning platform that features coding screencasts, a code editor, and a community feature for learners and instructors.                                                                                 |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
