@@ -191,6 +191,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [Awesome Web Dev Resources](https://web-dev-resources.com/#/)                                            | This is an awesome project about Web Development resources.                                                                        |
 | [CollectUI](https://collectui.com/)                                                                      | Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily.                                         |
 | [Big List of Naughty String](https://github.com/minimaxir/big-list-of-naughty-strings)                   | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. |
+| [50 Projects 50 Days](https://github.com/bradtraversy/50projects50days)                                  | 50+ mini web projects using HTML, CSS & JS                                                                                         |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
