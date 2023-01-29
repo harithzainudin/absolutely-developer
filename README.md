@@ -198,6 +198,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [DevHints](https://devhints.io/)                                                                         | A ridiculous collection of web developments cheatsheets                                                                                                                                                                     |
 | [Scrimba](https://scrimba.com/allcourses?price=free)                                                     | Interactive coding learning platform that features coding screencasts, a code editor, and a community feature for learners and instructors.                                                                                 |
 | [APILayer](https://apilayer.com/)                                                                        | A leading provider of cloud API and SaaS brands trusted by close to 1 million customers — from developers, startups all the way to Fortune 500s.                                                                            |
+| [Rapid API](https://rapidapi.com/hub)                                                                    | Discover and connect to thousands of APIs                                                                                                                                                                                   |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
