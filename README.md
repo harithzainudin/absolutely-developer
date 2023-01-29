@@ -197,6 +197,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [Hover](https://ianlunn.github.io/Hover/)                                                                | A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS. |
 | [DevHints](https://devhints.io/)                                                                         | A ridiculous collection of web developments cheatsheets                                                                                                                                                                     |
 | [Scrimba](https://scrimba.com/allcourses?price=free)                                                     | Interactive coding learning platform that features coding screencasts, a code editor, and a community feature for learners and instructors.                                                                                 |
+| [APILayer](https://apilayer.com/)                                                                        | A leading provider of cloud API and SaaS brands trusted by close to 1 million customers — from developers, startups all the way to Fortune 500s.                                                                            |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
