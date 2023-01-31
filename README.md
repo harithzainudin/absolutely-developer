@@ -304,6 +304,7 @@ This is the only repository that you need to know, it contains everything!
 | [Thunderclient](https://www.thunderclient.com/)      | Hand-crafted lightweight Rest Client for Testing APIs                                                                                                                                     |
 | [Exercism](https://exercism.org/)                    | Get really good at programming. Develop fluency in 62 programming languages with our unique blend of learning, practice and mentoring. Exercism is fun, effective and 100% free, forever. |
 | [Streamline](https://www.streamlinehq.com/)          | Access the world's largest and most consistent icon and illustration sets. Customise 140,000+ vector graphics, and add them to your projects in seconds ⚡️                               |
+| [CodeChef](https://www.codechef.com/)                | CodeChef was created as a platform to help programmers make it big in the world of algorithms, computer programming, and programming contests                                             |
 
 #### 📒 Resources
 
@@ -321,7 +322,6 @@ This is the only repository that you need to know, it contains everything!
 | [Developer Roadmaps](https://roadmap.sh/)                                                              | Community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings                                                                                           |
 | [Programmer Humor](https://programmerhumor.io/)                                                        | Various memes and jokes related to programming and developers. Have Fun.                                                                                                                                                                          |
 | Free For Dev - [Github](https://github.com/ripienaar/free-for-dev), [Website](https://free-for.dev/#/) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev                                                                                                                                                   |
-| [CodeChef](https://www.codechef.com/)                                                                  | CodeChef was created as a platform to help programmers make it big in the world of algorithms, computer programming, and programming contests                                                                                                     |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
