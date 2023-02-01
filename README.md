@@ -324,6 +324,7 @@ This is the only repository that you need to know, it contains everything!
 | [Developer Roadmaps](https://roadmap.sh/)                                                              | Community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings                                                                                           |
 | [Programmer Humor](https://programmerhumor.io/)                                                        | Various memes and jokes related to programming and developers. Have Fun.                                                                                                                                                                          |
 | Free For Dev - [Github](https://github.com/ripienaar/free-for-dev), [Website](https://free-for.dev/#/) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev                                                                                                                                                   |
+| [Internet is Beautiful](https://www.internetisbeautiful.co/)                                           | Discover the most interesting, useful and awesome websites from the depths of the internet.                                                                                                                                                       |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
