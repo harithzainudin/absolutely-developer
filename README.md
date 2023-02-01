@@ -36,13 +36,13 @@
 
 ### Amazon Web Services (AWS)
 
-#### 🛠 Tools/Development
+**🛠 Tools/Development**
 
 | Name                                                                                | Description                                                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [AWS Lambda Power Tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) | An open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Functions - and it supports three optimization strategies: cost, speed, and balanced. |
 
-#### 📒 Resources
+**📒 Resources**
 
 | Name                                                                                                                                                                                                                                                                                                               | Description                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -61,13 +61,13 @@
 
 ### Serverless
 
-#### 🛠 Tools/Development
+**🛠 Tools/Development**
 
 | Name                                          | Description                                                                                                                                                                          |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [EventCatalog](https://www.eventcatalog.dev/) | Documentation tool for Event-Driven Architectures. It is an Open Source project that helps you document your events, services and domainsPowered by markdown, components and plugins |
 
-#### 📒 Resources
+**📒 Resources**
 
 | Name                                                        | Description                                                                                                                                                                                                                |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -80,14 +80,14 @@
 
 ### Javascript
 
-#### 🛠 Tools/Development
+**🛠 Tools/Development**
 
 | Name                                      | Description                                                                                                                                                                                                                                                                               |
 | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Bundlephobia](https://bundlephobia.com/) | Find the cost of adding a npm package to your bundle                                                                                                                                                                                                                                      |
 | [Flow](https://flow.org/)                 | This is alternative to TypeScript. Flow is a static type checker for your JavaScript code. It does a lot of work to make you more productive. Making you code faster, smarter, more confidently, and to a bigger scale. Flow checks your code for errors through static type annotations. |
 
-#### 📒 Resources
+**📒 Resources**
 
 | Name                                                                                                           | Description                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -110,14 +110,14 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 ### Typescript
 
-#### 🛠 Tools/Development
+**🛠 Tools/Development**
 
 | Name                                                         | Description                                                                                                                                                                                                                |
 | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [TS-toolbelt](https://millsp.github.io/ts-toolbelt/)         | TypeScript's largest utility library. Spend less time, build stronger. Benefit from a wide range of generic type functions to achieve better type safety. Work just like lodash, or ramda, but applied to the type system. |
 | [Utility Types](https://github.com/piotrwitek/utility-types) | Collection of utility types, complementing TypeScript built-in mapped types and aliases (think "lodash" for static types).                                                                                                 |
 
-#### 📒 Resources
+**📒 Resources**
 
 | Name                                                                       | Description                                                                                                                                                                                                                                                                                                                                                                     |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -130,13 +130,13 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 ### Python
 
-#### 🛠 Tools/Development
+**🛠 Tools/Development**
 
 | Name | Description |
 | ---- | ----------- |
 |      |             |
 
-#### 📒 Resources
+**📒 Resources**
 
 | Name                                          | Description                                                                    |
 | --------------------------------------------- | ------------------------------------------------------------------------------ |
@@ -148,7 +148,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 ### Web Development
 
-#### 🛠 Tools/Development
+**🛠 Tools/Development**
 
 | Name                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Description                                                                                                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -185,7 +185,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [Leaflet JS](https://leafletjs.com/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | An open-source JavaScript library for mobile-friendly interactive maps                                                                                                                                                   |
 | [Flexbox Defense](http://www.flexboxdefense.com/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS!                                                                     |
 
-#### 📒 Resources
+**📒 Resources**
 
 | Name                                                                                                     | Description                                                                                                                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -244,13 +244,13 @@ This is the only repository that you need to know, it contains everything!
 
 ### DevOps and Code Improvement
 
-#### 🛠 Tools/Development
+**🛠 Tools/Development**
 
 | Name                                         | Description                                                                                                                                                                    |
 | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Husky](https://typicode.github.io/husky/#/) | Husky improves your commits and more 🐶 woof! You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. Husky supports all Git hooks. |
 
-#### 📒 Resources
+**📒 Resources**
 
 | Name                                                               | Description                                                               |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------- |
@@ -263,14 +263,14 @@ This is the only repository that you need to know, it contains everything!
 
 ### Git
 
-#### 🛠 Tools/Development
+**🛠 Tools/Development**
 
 | Name                                                     | Description                                     |
 | -------------------------------------------------------- | ----------------------------------------------- |
 | [GitIgnore](https://www.toptal.com/developers/gitignore) | Create useful .gitignore files for your project |
 | [What the commit](http://whatthecommit.com/)             | Generate random funny and useless commit        |
 
-#### 📒 Resources
+**📒 Resources**
 
 | Name                                              | Description                                           |
 | ------------------------------------------------- | ----------------------------------------------------- |
@@ -282,7 +282,7 @@ This is the only repository that you need to know, it contains everything!
 
 ### Miscellaneous
 
-#### 🛠 Tools/Development
+**🛠 Tools/Development**
 
 | Name                                                 | Description                                                                                                                                                                                                                                                                                       |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -306,7 +306,7 @@ This is the only repository that you need to know, it contains everything!
 | [LeetCode](https://leetcode.com/)                    | The best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.                                                                                                                                                                                    |
 | [HackerRank](https://www.hackerrank.com/)            | HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice different programming paradigms like functional programming. |
 
-#### 📒 Resources
+**📒 Resources**
 
 | Name                                                                                                   | Description                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -379,7 +379,7 @@ This is the only repository that you need to know, it contains everything!
 
 ### Markdown/Readme
 
-#### 🛠 Tools/Development
+**🛠 Tools/Development**
 
 | Name                                                                                          | Description                                                                                                             |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -393,7 +393,7 @@ This is the only repository that you need to know, it contains everything!
 | [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) | Direct and Straightforward Github Profile Readme Generator                                                              |
 | [Profilinator](https://profilinator.rishav.dev/)                                              | Another Profile Readme Generator that contain many skillset                                                             |
 
-#### 📒 Resources
+**📒 Resources**
 
 | Name                                                                                           | Description                                       |
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------- |
