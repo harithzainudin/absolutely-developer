@@ -205,7 +205,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 ---
 
-### Tailwind CSS
+#### Tailwind CSS
 
 This is the only repository that you need to know, it contains everything!
 
@@ -218,7 +218,7 @@ This is the only repository that you need to know, it contains everything!
 
 ---
 
-### Vue.js
+#### Vue.js
 
 This is the only repository that you need to know, it contains everything!
 
@@ -230,7 +230,7 @@ This is the only repository that you need to know, it contains everything!
 
 ---
 
-### Vuetify
+#### Vuetify
 
 This is the only repository that you need to know, it contains everything!
 
@@ -328,7 +328,7 @@ This is the only repository that you need to know, it contains everything!
 
 ---
 
-### Websites and Publications
+#### Websites and Publications
 
 | Name                                                        | Description                                                                                                                                                                                                                                                                                                                 |
 | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -343,7 +343,7 @@ This is the only repository that you need to know, it contains everything!
 
 ---
 
-### Utility Tools
+#### Utility Tools
 
 | Name                                                      | Description                                                                                                                                                                                 |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -358,7 +358,7 @@ This is the only repository that you need to know, it contains everything!
 
 ---
 
-### Beautifier Tools
+#### Beautifier Tools
 
 | Name                                       | Description                                                                                                                 |
 | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
@@ -377,7 +377,7 @@ This is the only repository that you need to know, it contains everything!
 
 ---
 
-### Markdown/Readme
+#### Markdown/Readme
 
 **🛠 Tools/Development**
 
