@@ -207,8 +207,6 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 ### Tailwind CSS
 
-#### 📒 Resources
-
 This is the only repository that you need to know, it contains everything!
 
 [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
