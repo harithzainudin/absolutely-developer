@@ -246,10 +246,11 @@ This is the only repository that you need to know, it contains everything!
 
 **🛠 Tools/Development**
 
-| Name                                         | Description                                                                                                                                                                    |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Husky](https://typicode.github.io/husky/#/) | Husky improves your commits and more 🐶 woof! You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. Husky supports all Git hooks. |
-| [jscpd](https://github.com/kucherenko/jscpd) | Copy/paste detector for programming source code.                                                                                                                               |
+| Name                                         | Description                                                                                                                                                                                                                    |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Husky](https://typicode.github.io/husky/#/) | Husky improves your commits and more 🐶 woof! You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. Husky supports all Git hooks.                                                 |
+| [jscpd](https://github.com/kucherenko/jscpd) | Copy/paste detector for programming source code.                                                                                                                                                                               |
+| [Danger](https://danger.systems/)      | Danger runs during your CI process, and gives teams the chance to automate common code review chores.This provides another logical step in your build, through this Danger can help lint your rote tasks in daily code review. |
 
 **📒 Resources**
 
