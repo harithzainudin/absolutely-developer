@@ -132,17 +132,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 ### Python
 
-**🛠 Tools/Development**
-
-| Name | Description |
-| ---- | ----------- |
-|      |             |
-
-**📒 Resources**
-
-| Name                                          | Description                                                                    |
-| --------------------------------------------- | ------------------------------------------------------------------------------ |
-| [Awesome Python](https://awesome-python.com/) | A curated list of awesome Python frameworks, libraries, software and resources |
+[Awesome Python](https://awesome-python.com/) - A curated list of awesome Python frameworks, libraries, software and resources
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
