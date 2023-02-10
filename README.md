@@ -325,6 +325,7 @@ This is the only repository that you need to know, it contains everything!
 | [Programmer Humor](https://programmerhumor.io/)                                                        | Various memes and jokes related to programming and developers. Have Fun.                                                                                                                                                                          |
 | Free For Dev - [Github](https://github.com/ripienaar/free-for-dev), [Website](https://free-for.dev/#/) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev                                                                                                                                                   |
 | [Internet is Beautiful](https://www.internetisbeautiful.co/)                                           | Discover the most interesting, useful and awesome websites from the depths of the internet.                                                                                                                                                       |
+| [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)                 | A collection of (mostly) technical things every software developer should know about                                                                                                                                                              |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
@@ -375,6 +376,7 @@ This is the only repository that you need to know, it contains everything!
 | [Socialify](https://socialify.git.ci/)     | Generate a beautiful project image                                                                                          |
 | [Shields](https://shields.io/)             | Service for creating legible badges in SVG format, which can easily be included in GitHub readmes or any other web page.    |
 | [resume.io](https://resume.io/)            | Create a professional resume by providing you with well-tested templates                                                    |
+| [BrowserFrame](https://browserframe.com/)  | The easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes.           |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
