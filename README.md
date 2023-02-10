@@ -252,10 +252,11 @@ This is the only repository that you need to know, it contains everything!
 
 **📒 Resources**
 
-| Name                                                               | Description                                                               |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------------- |
-| [90 Days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps) | Documenting repository for learning the world of DevOps                   |
-| [Level Up Gitlab](https://levelup.gitlab.com/)                     | Boost your DevOps skills With GitLab’s DevOps training Learn. Earn. Grow. |
+| Name                                                                 | Description                                                                                                                                                                                     |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [90 Days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps)   | Documenting repository for learning the world of DevOps                                                                                                                                         |
+| [Level Up Gitlab](https://levelup.gitlab.com/)                       | Boost your DevOps skills With GitLab’s DevOps training Learn. Earn. Grow.                                                                                                                       |
+| [DevOps Exercises](https://github.com/bregman-arie/devops-exercises) | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
