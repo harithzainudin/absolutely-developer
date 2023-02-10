@@ -200,6 +200,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [CSS Buttons Generator](https://markodenic.com/tools/buttons-generator/) | A collection of CSS button generator that you can copy and paste directly                                                                                                                                                   |
 | [Hover](https://ianlunn.github.io/Hover/)                                | A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS. |
 | [CollectUI](https://collectui.com/)                                      | Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily.                                                                                                                                  |
+| [Three Dots](https://nzbin.github.io/three-dots/)                        | 🔮 Three Dots is a set of CSS loading animations made with just single element.                                                                                                                                             |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
@@ -250,7 +251,7 @@ This is the only repository that you need to know, it contains everything!
 | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Husky](https://typicode.github.io/husky/#/) | Husky improves your commits and more 🐶 woof! You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. Husky supports all Git hooks.                                                 |
 | [jscpd](https://github.com/kucherenko/jscpd) | Copy/paste detector for programming source code.                                                                                                                                                                               |
-| [Danger](https://danger.systems/)      | Danger runs during your CI process, and gives teams the chance to automate common code review chores.This provides another logical step in your build, through this Danger can help lint your rote tasks in daily code review. |
+| [Danger](https://danger.systems/)            | Danger runs during your CI process, and gives teams the chance to automate common code review chores.This provides another logical step in your build, through this Danger can help lint your rote tasks in daily code review. |
 
 **📒 Resources**
 
