@@ -201,6 +201,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [Hover](https://ianlunn.github.io/Hover/)                                | A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS. |
 | [CollectUI](https://collectui.com/)                                      | Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily.                                                                                                                                  |
 | [Three Dots](https://nzbin.github.io/three-dots/)                        | 🔮 Three Dots is a set of CSS loading animations made with just single element.                                                                                                                                             |
+| [Anime JS](https://animejs.com/)                                         | A lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects.                                                                       |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
