@@ -203,6 +203,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [CollectUI](https://collectui.com/)                                      | Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily.                                                                                                                                  |
 | [Three Dots](https://nzbin.github.io/three-dots/)                        | 🔮 Three Dots is a set of CSS loading animations made with just single element.                                                                                                                                             |
 | [Anime JS](https://animejs.com/)                                         | A lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects.                                                                       |
+| [Shaper](https://hihayk.github.io/shaper/)                               | Interface styles shaper                                                                                                                                                                                                     |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
