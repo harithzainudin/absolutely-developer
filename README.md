@@ -206,6 +206,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [Scale](https://hihayk.github.io/scale)                                  | Color Scale Generator                                                                                                                                                                                                       |
 | [unDraw](https://undraw.co/)                                             | Open-source illustrations for any idea you can imagine and create. A constantly updated design project with beautiful SVG images that you can use completely free and without attribution.                                  |
 | [Loading.io](https://loading.io/)                                        | Animation made easy. Ajax Loader, Animated Icons, Live Background ... in GIF / SVG / APNG / CSS !                                                                                                                           |
+| [Coolors](https://coolors.co/)                                           | The super fast color palettes generator! Create the perfect palette or get inspired by thousands of beautiful color schemes.                                                                                                |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
