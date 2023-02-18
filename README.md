@@ -15,7 +15,6 @@
   - [Typescript](#typescript)
   - [Python](#python)
   - [Web Development](#web-development)
-    - [CSS](#css)
     - [CSS, Designs and Illustrations](#css-designs-and-illustrations)
     - [Tailwind CSS](#tailwind-css)
     - [Vue.js](#vuejs)
@@ -206,6 +205,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [Shaper](https://hihayk.github.io/shaper/)                               | Interface styles shaper                                                                                                                                                                                                     |
 | [Scale](https://hihayk.github.io/scale)                                  | Color Scale Generator                                                                                                                                                                                                       |
 | [unDraw](https://undraw.co/)                                             | Open-source illustrations for any idea you can imagine and create. A constantly updated design project with beautiful SVG images that you can use completely free and without attribution.                                  |
+| [Loading.io](https://loading.io/)                                        | Animation made easy. Ajax Loader, Animated Icons, Live Background ... in GIF / SVG / APNG / CSS !                                                                                                                           |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
