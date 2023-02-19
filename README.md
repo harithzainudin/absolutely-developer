@@ -423,7 +423,9 @@ This is the only repository that you need to know, it contains everything!
 
 ## Contribution Guidelines
 
-Well if you want to contribute just submit a pull request and I will review it! Feel free to add anything that you think is useful. There are no particular guidelines but at least make it easy for other people to read @@
+Well if you want to contribute just submit a pull request and I will review it! Feel free to add anything that you think is useful. There are no particular guidelines.
+
+If you encounter any website or repo that is not active, do raise an issue and I will remove it. Thank you!
 
 ## Built with
 
