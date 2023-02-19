@@ -211,6 +211,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [CSS Layout Generators](https://layout.bradwoods.io/)                    | A CSS Grid generator & CSS Flexbox generator. A tool for generating UI layout component code.                                                                                                                               |
 | [CSS Grid Generator](https://github.com/sdras/cssgridgenerator)          | 🧮 Generate basic CSS Grid code to make dynamic layouts!                                                                                                                                                                    |
 | [CSS Gradient](https://cssgradient.io/)                                  | CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites.                                                                                                               |
+| [Smooth Shadow](https://shadows.brumm.af/)                               | Make a smooth shadow, friend.                                                                                                                                                                                               |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
