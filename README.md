@@ -321,6 +321,7 @@ This is the only repository that you need to know, it contains everything!
 | [LeetCode](https://leetcode.com/)                    | The best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.                                                                                                                                                                                    |
 | [HackerRank](https://www.hackerrank.com/)            | HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice different programming paradigms like functional programming. |
 | [Futurepedia](https://www.futurepedia.io/)           | THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY.                                                                                                                                                                                                                                                    |
+| [Perplexity ai](https://www.perplexity.ai/)          | New search interface that uses advanced artificial intelligence technologies, such as OpenAI's GPT-3 model, to provide direct answers to questions and summaries and citations for search results.                                                                                                |
 
 **📒 Resources**
 
