@@ -212,6 +212,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [CSS Grid Generator](https://github.com/sdras/cssgridgenerator)          | 🧮 Generate basic CSS Grid code to make dynamic layouts!                                                                                                                                                                    |
 | [CSS Gradient](https://cssgradient.io/)                                  | CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites.                                                                                                               |
 | [Smooth Shadow](https://shadows.brumm.af/)                               | Make a smooth shadow, friend.                                                                                                                                                                                               |
+| [SVG Backgrounds](https://www.svgbackgrounds.com/)                                      | Customize and apply backgrounds fast. Create stunning websites easily with fullscreen graphics under 5KB                                                                                                                    |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
