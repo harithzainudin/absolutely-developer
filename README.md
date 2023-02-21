@@ -181,6 +181,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [Scrimba](https://scrimba.com/allcourses?price=free)                                                     | Interactive coding learning platform that features coding screencasts, a code editor, and a community feature for learners and instructors.      |
 | [APILayer](https://apilayer.com/)                                                                        | A leading provider of cloud API and SaaS brands trusted by close to 1 million customers — from developers, startups all the way to Fortune 500s. |
 | [Rapid API](https://rapidapi.com/hub)                                                                    | Discover and connect to thousands of APIs                                                                                                        |
+| [HTML Head](https://htmlhead.dev/)                                                                       | A simple guide to HTML <head> elements                                                                                                           |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
@@ -212,7 +213,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [CSS Grid Generator](https://github.com/sdras/cssgridgenerator)          | 🧮 Generate basic CSS Grid code to make dynamic layouts!                                                                                                                                                                    |
 | [CSS Gradient](https://cssgradient.io/)                                  | CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites.                                                                                                               |
 | [Smooth Shadow](https://shadows.brumm.af/)                               | Make a smooth shadow, friend.                                                                                                                                                                                               |
-| [SVG Backgrounds](https://www.svgbackgrounds.com/)                                      | Customize and apply backgrounds fast. Create stunning websites easily with fullscreen graphics under 5KB                                                                                                                    |
+| [SVG Backgrounds](https://www.svgbackgrounds.com/)                       | Customize and apply backgrounds fast. Create stunning websites easily with fullscreen graphics under 5KB                                                                                                                    |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
