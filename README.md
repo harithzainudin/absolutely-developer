@@ -216,6 +216,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [SVG Backgrounds](https://www.svgbackgrounds.com/)                       | Customize and apply backgrounds fast. Create stunning websites easily with fullscreen graphics under 5KB                                                                                                                    |
 | [Grabient](https://www.grabient.com/)                                    | Beautiful and simple UI for generating web gradients.                                                                                                                                                                       |
 | [ColorSpace](https://mycolor.space/)                                     | Never waste Hours on finding the perfect Color Palette again! JUST ENTER A COLOR! And Generate nice Color Palettes                                                                                                          |
+| [Error 404](https://error404.fun/)                                       | Make a unique journey through 404 error pages on your website Use these illustrations that describe better than words                                                                                                       |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
