@@ -214,6 +214,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [CSS Gradient](https://cssgradient.io/)                                  | CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites.                                                                                                               |
 | [Smooth Shadow](https://shadows.brumm.af/)                               | Make a smooth shadow, friend.                                                                                                                                                                                               |
 | [SVG Backgrounds](https://www.svgbackgrounds.com/)                       | Customize and apply backgrounds fast. Create stunning websites easily with fullscreen graphics under 5KB                                                                                                                    |
+| [Grabient](https://www.grabient.com/)                                    | Beautiful and simple UI for generating web gradients.                                                                                                                                                                       |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
