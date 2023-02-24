@@ -225,10 +225,14 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 #### Tailwind CSS
 
-This is the only repository that you need to know, it contains everything!
+Main references - [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
 
-[Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
-[Creative Tim: Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
+Below list is the one that doesn't make it to Awesome Tailwind CSS
+
+| Name                                                                                                              | Description                                                                                                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Creative Tim: Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation) | Tailwind Starter Kit is Free and Open Source. It does not change or add any CSS to the already one from TailwindCSS. It features multiple HTML elements and it comes with dynamic components for ReactJS, Vue and Angular. |
+| [DevDojo Buttons](https://devdojo.com/tailwindcss/buttons)                                                       | A unique collection of Copy & Paste TailwindCSS buttons 🙌                                                                                                                                                                 |
 
 😎 Awesome things related to Tailwind CSS
 
