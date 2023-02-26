@@ -228,6 +228,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [Glassmorphism CSS Generator](https://ui.glass/generator/)               | Get started with this free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.                                                                             |
 | [Neumorphism](https://neumorphism.io/)                                   | Generate Soft-UI CSS code                                                                                                                                                                                                   |
 | [UIVerse](https://uiverse.io/)                                           | Open-Source UI elements for any project. Create, share, and use beautiful custom elements made with HTML and CSS.                                                                                                           |
+| [Hero Patterns](https://heropatterns.com/)                               | A collection of repeatable SVG background patterns for you to use on your web projects.                                                                                                                                     |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
