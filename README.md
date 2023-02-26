@@ -13,7 +13,7 @@ This repository contains a carefully curated collection of tools and resources t
 - [📦 Content](#content)
   - [Amazon Web Services (AWS)](#amazon-web-services-aws)
   - [Serverless](#serverless)
-  - [Javascript](#javascript)
+  - [Javascript/NodeJs](#javascriptnodejs)
   - [Typescript](#typescript)
   - [Python](#python)
   - [Web Development](#web-development)
@@ -87,7 +87,7 @@ This repository contains a carefully curated collection of tools and resources t
 
 ---
 
-### Javascript
+### Javascript/NodeJs
 
 **🛠 Tools/Development**
 
@@ -98,20 +98,21 @@ This repository contains a carefully curated collection of tools and resources t
 
 **📒 Resources**
 
-| Name                                                                                                           | Description                                                                                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Ultimate Node js](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources)                                  | All resources related to Node Js at one place.                                                                                                                                          |
-| [You don't know JS yet](https://github.com/getify/You-Dont-Know-JS)                                            | Series of books diving deep into the core mechanisms of the JavaScript language.                                                                                                        |
-| [Javascript Questions](https://github.com/lydiahallie/javascript-questions)                                    | A long list of (advanced) JavaScript questions, and their explanations ✨                                                                                                               |
-| [33 js Concepts](https://github.com/leonardomso/33-js-concepts)                                                | 📜 33 JavaScript concepts every developer should know.                                                                                                                                  |
-| [Javscript Info](https://javascript.info/)                                                                     | Here we learn JavaScript, starting from scratch and go on to advanced concepts like OOP.                                                                                                |
-| [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)                                | 🛁 Clean Code concepts adapted for JavaScript                                                                                                                                           |
-| [Node.js best Practice](https://github.com/goldbergyoni/nodebestpractices)                                     | Contain all Node.js best practices                                                                                                                                                      |
-| [Practica](https://github.com/practicajs/practica)                                                             | Node.js solution starter that is production-ready, packed with ✅ best practices and built with simplicity in mind                                                                      |
-| [Data Structures Algorithms JS](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) | 🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook                                                                                                        |
-| [Javscript Algorithms](https://github.com/trekhleb/javascript-algorithms)                                      | This repository contains JavaScript based examples of many popular algorithms and data structures.                                                                                      |
-| [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)                               | Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.                                                                                               |
-| [Vanilla JS Toolkit](https://vanillajstoolkit.com/)                                                            | A collection of tools and snippets for working with JavaScript. Find modern JS methods and utility functions, and browse hand‑selected libraries, boilerplates, and learning resources. |
+| Name                                                                                                           | Description                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Ultimate Node js](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources)                                  | All resources related to Node Js at one place.                                                                                                                                                                                                    |
+| [You don't know JS yet](https://github.com/getify/You-Dont-Know-JS)                                            | Series of books diving deep into the core mechanisms of the JavaScript language.                                                                                                                                                                  |
+| [JavasSript Questions](https://github.com/lydiahallie/javascript-questions)                                    | A long list of (advanced) JavaScript questions, and their explanations ✨                                                                                                                                                                         |
+| [33 js Concepts](https://github.com/leonardomso/33-js-concepts)                                                | 📜 33 JavaScript concepts every developer should know.                                                                                                                                                                                            |
+| [JavaScript Info](https://javascript.info/)                                                                    | Here we learn JavaScript, starting from scratch and go on to advanced concepts like OOP.                                                                                                                                                          |
+| [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)                                | 🛁 Clean Code concepts adapted for JavaScript                                                                                                                                                                                                     |
+| [Node.js best Practice](https://github.com/goldbergyoni/nodebestpractices)                                     | Contain all Node.js best practices                                                                                                                                                                                                                |
+| [Practica](https://github.com/practicajs/practica)                                                             | Node.js solution starter that is production-ready, packed with ✅ best practices and built with simplicity in mind                                                                                                                                |
+| [Data Structures Algorithms JS](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) | 🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook                                                                                                                                                                  |
+| [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)                                     | This repository contains JavaScript based examples of many popular algorithms and data structures.                                                                                                                                                |
+| [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)                               | Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.                                                                                                                                                         |
+| [Vanilla JS Toolkit](https://vanillajstoolkit.com/)                                                            | A collection of tools and snippets for working with JavaScript. Find modern JS methods and utility functions, and browse hand‑selected libraries, boilerplates, and learning resources.                                                           |
+| [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)                      | The JavaScript reference serves as a repository of facts about the JavaScript language. The entire language is described here in detail. As you write JavaScript code, you'll refer to these pages often (thus the title "JavaScript reference"). |
 
 We concentrate on the language itself here, with the minimum of environment-specific notes.|
 
