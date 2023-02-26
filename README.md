@@ -190,6 +190,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [APILayer](https://apilayer.com/)                                                                        | A leading provider of cloud API and SaaS brands trusted by close to 1 million customers — from developers, startups all the way to Fortune 500s. |
 | [Rapid API](https://rapidapi.com/hub)                                                                    | Discover and connect to thousands of APIs                                                                                                        |
 | [HTML Head](https://htmlhead.dev/)                                                                       | A simple guide to HTML <head> elements                                                                                                           |
+| [HTML Cheatsheet](https://htmlcheatsheet.com/)                                                           | Online interactive HTML Cheat Sheet contains useful code examples and web developer tools, markup generators and more.                           |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
