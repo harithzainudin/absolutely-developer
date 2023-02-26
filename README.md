@@ -6,6 +6,8 @@
 
 ---
 
+This repository contains a carefully curated collection of tools and resources that I've used to become a full stack cloud developer. Whether you're a beginner or an experienced developer, you'll find something useful in this repository to help you take your development skills to the next level. From tutorials and articles to code snippets and frameworks, we've got you covered.
+
 ## Table of contents
 
 - [📦 Content](#content)
