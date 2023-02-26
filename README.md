@@ -227,6 +227,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [Error 404](https://error404.fun/)                                       | Make a unique journey through 404 error pages on your website Use these illustrations that describe better than words                                                                                                       |
 | [Glassmorphism CSS Generator](https://ui.glass/generator/)               | Get started with this free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.                                                                             |
 | [Neumorphism](https://neumorphism.io/)                                   | Generate Soft-UI CSS code                                                                                                                                                                                                   |
+| [UIVerse](https://uiverse.io/)                                           | Open-Source UI elements for any project. Create, share, and use beautiful custom elements made with HTML and CSS.                                                                                                           |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
