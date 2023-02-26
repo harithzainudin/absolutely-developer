@@ -47,9 +47,11 @@ This repository contains a carefully curated collection of tools and resources t
 
 **📒 Resources**
 
+<!-- [AWS Stash]() -->
+
 | Name                                                                                              | Description                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [AWS Stash](https://awsstash.com/)                                                                | A collection of AWS related videos, podcasts, code repositories, whitepapers, and feature releases, all in a single, easy to search interface.                                                                                       |
+| [AWS Stash](https://awsstash.com/){target="\_blank"}                                              | A collection of AWS related videos, podcasts, code repositories, whitepapers, and feature releases, all in a single, easy to search interface.                                                                                       |
 | [AWS Hands-On Tutorial](https://aws.amazon.com/getting-started/hands-on/)                         | Get started with step-by-step tutorials to launch your first application                                                                                                                                                             |
 | [AWS CLI Command Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/index.html)  | The AWS Command Line Interface is a unified tool that provides a consistent interface for interacting with all parts of AWS.                                                                                                         |
 | [AWS Workshops](https://workshops.aws/)                                                           | This website lists workshops created by the teams at Amazon Web Services (AWS). Workshops are hands-on events designed to teach or introduce practical skills, techniques, or concepts which you can use to solve business problems. |
