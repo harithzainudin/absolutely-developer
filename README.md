@@ -226,6 +226,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [ColorSpace](https://mycolor.space/)                                     | Never waste Hours on finding the perfect Color Palette again! JUST ENTER A COLOR! And Generate nice Color Palettes                                                                                                          |
 | [Error 404](https://error404.fun/)                                       | Make a unique journey through 404 error pages on your website Use these illustrations that describe better than words                                                                                                       |
 | [Glassmorphism CSS Generator](https://ui.glass/generator/)               | Get started with this free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.                                                                             |
+| [Neumorphism](https://neumorphism.io/)                                   | Generate Soft-UI CSS code                                                                                                                                                                                                   |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
