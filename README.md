@@ -47,8 +47,6 @@ This repository contains a carefully curated collection of tools and resources t
 
 **📒 Resources**
 
-<!-- [AWS Stash]() -->
-
 | Name                                                                                              | Description                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [AWS Stash](https://awsstash.com/)                                                                | A collection of AWS related videos, podcasts, code repositories, whitepapers, and feature releases, all in a single, easy to search interface.                                                                                       |
