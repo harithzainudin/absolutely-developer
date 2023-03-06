@@ -407,6 +407,7 @@ This is the only repository that you need to know, it contains everything!
 | [Omatsuri App](https://omatsuri.app/)                     | Open source browser tools for everyday use                                                                                                                                                  |
 | [Lepton](https://hackjutsu.com/Lepton/)                   | A lean snippet manager powered by GitHub Gist                                                                                                                                               |
 | [Snibox](https://snibox.github.io/)                       | Self-hosted snippet manager. Developed to collect and organize code snippets.                                                                                                               |
+| [massCode](https://masscode.io/)                          | A free and open source code snippets manager for developers. It helps you create and organize your own personal snippet collection and have quick access to it.                             |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
