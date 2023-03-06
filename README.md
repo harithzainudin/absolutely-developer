@@ -44,6 +44,7 @@ This repository contains a carefully curated collection of tools and resources t
 | Name                                                                                | Description                                                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [AWS Lambda Power Tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) | An open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Functions - and it supports three optimization strategies: cost, speed, and balanced. |
+| [Cloud Custodian](https://cloudcustodian.io/)                                       | Cloud Custodian enables you to manage your cloud resources by filtering, tagging, and then applying actions to them. The YAML DSL allows defininition of rules to enable well-managed cloud infrastructure that's both secure and cost optimized.             |
 
 **📒 Resources**
 
