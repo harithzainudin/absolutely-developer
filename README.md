@@ -405,6 +405,8 @@ This is the only repository that you need to know, it contains everything!
 | [KeyFrames](https://keyframes.app/)                       | More tools for devs. Browser-based, mobile-friendly, actually private tools that make CSS a little less bad.                                                                                |
 | [Matter](https://hihayk.github.io/matter/)                | A task manager that highlights what matters most to you. No account needed. Simple, easy and straight forward.                                                                              |
 | [Omatsuri App](https://omatsuri.app/)                     | Open source browser tools for everyday use                                                                                                                                                  |
+| [Lepton](https://hackjutsu.com/Lepton/)                   | A lean snippet manager powered by GitHub Gist                                                                                                                                               |
+| [Snibox](https://snibox.github.io/)                       | Self-hosted snippet manager. Developed to collect and organize code snippets.                                                                                                               |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
