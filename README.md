@@ -314,9 +314,10 @@ This is the only repository that you need to know, it contains everything!
 
 **📒 Resources**
 
-| Name                                              | Description                                           |
-| ------------------------------------------------- | ----------------------------------------------------- |
-| [Git for Everybody](https://gitforeverybody.com/) | Learn the git flow you'll use everyday as a developer |
+| Name                                                     | Description                                                                                                                                                                                                     |
+| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Git for Everybody](https://gitforeverybody.com/)        | Learn the git flow you'll use everyday as a developer                                                                                                                                                           |
+| [Learn Git Branching](https://learngitbranching.js.org/) | The most visual and interactive way to learn Git on the web; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way. |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
