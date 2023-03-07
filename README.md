@@ -71,10 +71,11 @@ This repository contains a carefully curated collection of tools and resources t
 
 **🛠 Tools/Development**
 
-| Name                                          | Description                                                                                                                                                                          |
-| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [EventCatalog](https://www.eventcatalog.dev/) | Documentation tool for Event-Driven Architectures. It is an Open Source project that helps you document your events, services and domainsPowered by markdown, components and plugins |
-| [Async API](https://www.asyncapi.com/)        | Open-Source tools to easily build and maintain your event-driven architecture. All powered by the AsyncAPI specification, the industry standard for defining asynchronous APIs.      |
+| Name                                                        | Description                                                                                                                                                                          |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [EventCatalog](https://www.eventcatalog.dev/)               | Documentation tool for Event-Driven Architectures. It is an Open Source project that helps you document your events, services and domainsPowered by markdown, components and plugins |
+| [Async API](https://www.asyncapi.com/)                      | Open-Source tools to easily build and maintain your event-driven architecture. All powered by the AsyncAPI specification, the industry standard for defining asynchronous APIs.      |
+| [EventBridge Atlas](https://eventbridge-atlas.netlify.app/) | Document, Discover and Share AWS EventBridge Schemas. Turn your EventBridge Schemas into Documentation                                                                               |
 
 **📒 Resources**
 
