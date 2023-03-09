@@ -62,6 +62,7 @@ This repository contains a carefully curated collection of tools and resources t
 | [AWS Partner Webinars](https://aws.amazon.com/webinars/partner-webinars/)                         | Master your cloud computing journey with help from trusted AWS Partners. AWS Partner Webinars feature live demonstrations, customer use cases, and real-time Q&A sessions with AWS experts and select AWS Partners.                  |
 | [CloudFormation Cheatsheet](https://theburningmonk.com/cloudformation-ref-and-getatt-cheatsheet/) | Cheatsheet for ref and getatt in cloudformation                                                                                                                                                                                      |
 | [Cloudformation User Guide](https://github.com/awsdocs/aws-cloudformation-user-guide)             | The open source version of the AWS CloudFormation User Guide                                                                                                                                                                         |
+| [AWS Icons](https://awsicons.dev/)                                                                | Quickly Find & Copy AWS IconsOpen source SVG icon library with over 500+ icons                                                                                                                                                       |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
