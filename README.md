@@ -238,6 +238,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [UIVerse](https://uiverse.io/)                                           | Open-Source UI elements for any project. Create, share, and use beautiful custom elements made with HTML and CSS.                                                                                                           |
 | [Hero Patterns](https://heropatterns.com/)                               | A collection of repeatable SVG background patterns for you to use on your web projects.                                                                                                                                     |
 | [haikei](https://haikei.app/)                                            | Generate unique SVG design assets. Haikei is a web app to generate stunning visual content – ready to use with your design tools and workflow. Free, no signups, no credit cards.                                           |
+| [three.js](https://threejs.org/)                                         | Cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL                                                                |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
