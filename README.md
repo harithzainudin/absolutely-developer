@@ -378,6 +378,7 @@ This is the only repository that you need to know, it contains everything!
 | Free For Dev - [Github](https://github.com/ripienaar/free-for-dev), [Website](https://free-for.dev/#/) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev                                                                                                                                                   |
 | [Internet is Beautiful](https://www.internetisbeautiful.co/)                                           | Discover the most interesting, useful and awesome websites from the depths of the internet.                                                                                                                                                       |
 | [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)                 | A collection of (mostly) technical things every software developer should know about                                                                                                                                                              |
+| [VS Code can do that??](https://vscodecandothat.com/)                                                  | All the best things about Visual Studio Code that nobody ever bothered to tell you                                                                                                                                                                |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
