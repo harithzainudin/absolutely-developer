@@ -63,12 +63,15 @@ This repository contains a carefully curated collection of tools and resources t
 | [CloudFormation Cheatsheet](https://theburningmonk.com/cloudformation-ref-and-getatt-cheatsheet/) | Cheatsheet for ref and getatt in cloudformation                                                                                                                                                                                      |
 | [Cloudformation User Guide](https://github.com/awsdocs/aws-cloudformation-user-guide)             | The open source version of the AWS CloudFormation User Guide                                                                                                                                                                         |
 | [AWS Icons](https://awsicons.dev/)                                                                | Quickly Find & Copy AWS IconsOpen source SVG icon library with over 500+ icons                                                                                                                                                       |
+| [Awesome DynamoDB](https://github.com/alexdebrie/awesome-dynamodb)                                | List of resources for learning about modeling, operating, and using Amazon DynamoDB                                                                                                                                                  |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
 ---
 
 ### Serverless
+
+This serverless section is more into AWS serverless and Serverless Framework.
 
 **🛠 Tools/Development**
 
