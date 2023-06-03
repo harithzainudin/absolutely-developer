@@ -482,6 +482,7 @@ This is the only repository that you need to know, it contains everything!
 | [Humata](https://www.humata.ai/)                                                 | Ask AI anything about your filesResearch 100X Faster. Learn 100X Faster. Create Reports 100X Faster. Analyze Legal Documents 100X Faster. Understand Technical Papers 100X Faster. Ask Questions & Get Answers About Any File Instantly. |
 | [ElevenLabs](https://elevenlabs.io)                                              | Prime Voice AIThe most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.                             |
 | [Codeium](https://codeium.com/)                                                  | The modern coding superpower                                                                                                                                                                                                             |
+| [Speechify](https://speechify.com)                                               | The #1 AI Text to Speech Reader                                                                                                                                                                                                          |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
