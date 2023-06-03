@@ -249,6 +249,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [three.js](https://threejs.org/)                                         | Cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL                                                                |
 | [ScrollMagic](https://scrollmagic.io/)                                   | The javascript library for magical scroll interactions. ScrollMagic helps you to easily react to the user's current scroll position.                                                                                        |
 | [Locomotive Scroll](https://github.com/locomotivemtl/locomotive-scroll)  | 🛤 Detection of elements in viewport & smooth scrolling with parallax.                                                                                                                                                       |
+| [Swiper JS](https://swiperjs.com/)                                       | The Most Modern Mobile Touch Slider                                                                                                                                                                                         |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
