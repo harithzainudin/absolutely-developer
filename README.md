@@ -485,6 +485,7 @@ This is the only repository that you need to know, it contains everything!
 | [ElevenLabs](https://elevenlabs.io)                                              | Prime Voice AIThe most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.                             |
 | [Codeium](https://codeium.com/)                                                  | The modern coding superpower                                                                                                                                                                                                             |
 | [Speechify](https://speechify.com)                                               | The #1 AI Text to Speech Reader                                                                                                                                                                                                          |
+| [Simplified](https://simplified.com/)                                            | Unleash the power of AI to supercharge content creation for everyone                                                                                                                                                                     |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
