@@ -47,6 +47,7 @@ This repository contains a carefully curated collection of tools and resources t
 | [AWS Lambda Power Tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) | An open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Functions - and it supports three optimization strategies: cost, speed, and balanced. |
 | [Cloud Custodian](https://cloudcustodian.io/)                                       | Cloud Custodian enables you to manage your cloud resources by filtering, tagging, and then applying actions to them. The YAML DSL allows defininition of rules to enable well-managed cloud infrastructure that's both secure and cost optimized.             |
 | [Amazon DynamoDB Data Modeler](https://rh-web-bucket.s3.amazonaws.com/index.html#)  | This utility creates a data model with one or more virtual Tables, allowing users to visualize how relational data might be stored and indexed in DynamoDB in order to help design efficient schema for your application.                                     |
+| [DynamoDB Calculator](https://zaccharles.github.io/dynamodb-calculator/)            | DynamoDB Item Size and Consumed Capacity Calculator                                                                                                                                                                                                           |
 
 **📒 Resources**
 
