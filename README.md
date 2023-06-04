@@ -252,6 +252,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 | [ScrollMagic](https://scrollmagic.io/)                                   | The javascript library for magical scroll interactions. ScrollMagic helps you to easily react to the user's current scroll position.                                                                                        |
 | [Locomotive Scroll](https://github.com/locomotivemtl/locomotive-scroll)  | 🛤 Detection of elements in viewport & smooth scrolling with parallax.                                                                                                                                                       |
 | [Swiper JS](https://swiperjs.com/)                                       | The Most Modern Mobile Touch Slider                                                                                                                                                                                         |
+| [Lax JS](https://github.com/alexfoxy/lax.js)                             | Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.                                                                                                     |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
