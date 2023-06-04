@@ -487,6 +487,7 @@ This is the only repository that you need to know, it contains everything!
 | [Speechify](https://speechify.com)                                               | The #1 AI Text to Speech Reader                                                                                                                                                                                                          |
 | [Simplified](https://simplified.com/)                                            | Unleash the power of AI to supercharge content creation for everyone                                                                                                                                                                     |
 | [Wonsulting Resume AI](https://www.wonsulting.com/resumai)                       | Let AI write your resume for you                                                                                                                                                                                                         |
+| [Rytr](https://rytr.me/)                                                         | Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost!                                                                                                            |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
