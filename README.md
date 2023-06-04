@@ -486,6 +486,7 @@ This is the only repository that you need to know, it contains everything!
 | [Codeium](https://codeium.com/)                                                  | The modern coding superpower                                                                                                                                                                                                             |
 | [Speechify](https://speechify.com)                                               | The #1 AI Text to Speech Reader                                                                                                                                                                                                          |
 | [Simplified](https://simplified.com/)                                            | Unleash the power of AI to supercharge content creation for everyone                                                                                                                                                                     |
+| [Wonsulting Resume AI](https://www.wonsulting.com/resumai)                       | Let AI write your resume for you                                                                                                                                                                                                         |
 
 [🆙 Go to Table of Contents](#table-of-contents)
 
